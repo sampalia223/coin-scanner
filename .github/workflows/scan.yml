@@ -2,7 +2,7 @@ name: scan
 
 on:
   schedule:
-    - cron: "3 * * * *"        # 3 minutes past every hour (UTC); GitHub may delay it by 5-30 min
+   cron: "3 */2 * * *"        # 3 minutes past every hour (UTC); GitHub may delay it by 5-30 min
   workflow_dispatch:
     inputs:
       mode:
