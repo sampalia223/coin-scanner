@@ -1,0 +1,46 @@
+name: universe
+
+on:
+  schedule:
+    - cron: "30 18 * * *"      # once a day (about 5:30am Sydney): refreshes the coin list
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scanner
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Build coin universe (takes about 10-15 minutes because of the free API rate limit)
+        env:
+          COINALYZE_API_KEY: ${{ secrets.COINALYZE_API_KEY }}
+        run: python scanner.py universe
+
+      - name: Save universe
+        if: always()
+        run: |
+          git config user.name "scanner-bot"
+          git config user.email "scanner-bot@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            git commit -m "update universe [skip ci]"
+            git pull --rebase --autostash || true
+            git push || echo "push failed (will retry next run)"
+          fi
