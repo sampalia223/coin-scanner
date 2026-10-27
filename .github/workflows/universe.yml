@@ -2,8 +2,17 @@ name: universe
 
 on:
   schedule:
-    - cron: "30 18 * * *"      # once a day (about 5:30am Sydney): refreshes the coin list
+    - cron: "30 18 * * *"      # once a day (about 5:30am Sydney)
   workflow_dispatch:
+    inputs:
+      mode:
+        description: "Which refresh"
+        type: choice
+        default: universe-auto
+        options:
+          - universe-auto      # quick one day, full the next (every 48 hours)
+          - universe           # force a full rebuild (about 25 min)
+          - universe-quick     # force a quick refresh (about 5 min)
 
 permissions:
   contents: write
@@ -15,7 +24,7 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
 
@@ -26,12 +35,15 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Build coin universe (takes about 10-15 minutes because of the free API rate limit)
+      - name: Refresh coin list (quick one day, full the next)
         env:
+          INPUT_MODE: ${{ github.event.inputs.mode }}
           COINALYZE_API_KEY: ${{ secrets.COINALYZE_API_KEY }}
-        run: python scanner.py universe
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scanner.py "${INPUT_MODE:-universe-auto}"
 
-      - name: Save universe
+      - name: Save coin list
         if: always()
         run: |
           git config user.name "scanner-bot"
@@ -40,7 +52,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "nothing to commit"
           else
-            git commit -m "update universe [skip ci]"
+            git commit -m "update coin list [skip ci]"
             git pull --rebase --autostash || true
             git push || echo "push failed (will retry next run)"
           fi
