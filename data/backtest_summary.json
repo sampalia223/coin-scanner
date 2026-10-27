@@ -1,0 +1,77 @@
+{
+ "generated": "2026-10-27T05:50:00+00:00",
+ "coins": 60,
+ "n": 21148,
+ "groups": {
+  "ALL samples": {
+   "n": 21148,
+   "hit4": 0.11107433327028561,
+   "hit12": 0.11183090599583885
+  },
+  "IMMINENT": {
+   "n": 115,
+   "hit4": 0.2,
+   "hit12": 0.1565217391304348
+  },
+  "BUILDING": {
+   "n": 384,
+   "hit4": 0.10416666666666667,
+   "hit12": 0.11458333333333333
+  },
+  "WATCH": {
+   "n": 20649,
+   "hit4": 0.11070754031672236,
+   "hit12": 0.11153082473727541
+  },
+  "score top 5%": {
+   "n": 1058,
+   "hit4": 0.14933837429111532,
+   "hit12": 0.1446124763705104
+  },
+  "setup + FUTURES-LED buying (leveraged, fragile)": {
+   "n": 92,
+   "hit4": 0.11956521739130435,
+   "hit12": 0.13043478260869565
+  },
+  "setup + FUTURES-LED selling (leveraged, fragile)": {
+   "n": 38,
+   "hit4": 0.05263157894736842,
+   "hit12": 0.07894736842105263
+  },
+  "setup + SPOT BUYING vs futures selling (squeeze fuel)": {
+   "n": 12,
+   "hit4": 0.25,
+   "hit12": 0.0
+  },
+  "setup + SPOT SELLING vs futures buying (long-trap risk)": {
+   "n": 33,
+   "hit4": 0.06060606060606061,
+   "hit12": 0.06060606060606061
+  },
+  "setup + SPOT-LED accumulation": {
+   "n": 32,
+   "hit4": 0.15625,
+   "hit12": 0.09375
+  },
+  "setup + SPOT-LED distribution": {
+   "n": 24,
+   "hit4": 0.08333333333333333,
+   "hit12": 0.25
+  },
+  "setup + no clear flow": {
+   "n": 191,
+   "hit4": 0.14136125654450263,
+   "hit12": 0.13089005235602094
+  },
+  "setup + spot + futures buying (confirmed)": {
+   "n": 55,
+   "hit4": 0.16363636363636364,
+   "hit12": 0.14545454545454545
+  },
+  "setup + spot + futures selling (confirmed)": {
+   "n": 17,
+   "hit4": 0.11764705882352941,
+   "hit12": 0.17647058823529413
+  }
+ }
+}
