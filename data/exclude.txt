@@ -1,3 +1,4 @@
 # Tickers the scanner must IGNORE (one per line or comma-separated). Not case sensitive.
 # If you spot a stock, commodity or other non-crypto contract in an alert, add its ticker here, e.g.  SNDK
 # Changes apply from the next scan. Lines starting with # are comments.
+   SOXL, KORU, EWY, MU, NBIS, SKHY, DRAM, , XAUT, PAXG
