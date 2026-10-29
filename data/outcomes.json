@@ -354,6 +354,45 @@
    "typ4": 0.02541501135799034,
    "p90_12": 0.07009401096877584,
    "done": {}
+  },
+  {
+   "symbol": "ASTERUSDT.6",
+   "ticker": "ASTERUSDT",
+   "tier": "IMMINENT",
+   "score": 65.3,
+   "lean": "Crowded SHORTS - upside squeeze risk",
+   "added": "2026-10-29T17:45:00+00:00",
+   "t0": "2026-10-29T17:00:00+00:00",
+   "p0": 0.7188,
+   "typ4": 0.0119245758923855,
+   "p90_12": 0.0392426015423728,
+   "done": {}
+  },
+  {
+   "symbol": "BCHUSDT.6",
+   "ticker": "BCHUSDT",
+   "tier": "IMMINENT",
+   "score": 60.9,
+   "lean": "No clear lean",
+   "added": "2026-10-29T17:45:00+00:00",
+   "t0": "2026-10-29T17:00:00+00:00",
+   "p0": 288.45,
+   "typ4": 0.019709426658417354,
+   "p90_12": 0.051130173126100485,
+   "done": {}
+  },
+  {
+   "symbol": "ETHFIUSDT.6",
+   "ticker": "ETHFIUSDT",
+   "tier": "IMMINENT",
+   "score": 54.9,
+   "lean": "No clear lean",
+   "added": "2026-10-29T17:45:00+00:00",
+   "t0": "2026-10-29T17:00:00+00:00",
+   "p0": 0.6746,
+   "typ4": 0.028817784480675828,
+   "p90_12": 0.085029388456411,
+   "done": {}
   }
  ],
  "finished": [
