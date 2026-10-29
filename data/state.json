@@ -25,23 +25,23 @@
   "TRBUSDT.6": "2026-10-29T02:45:00+00:00"
  },
  "last_top": [
-  "BNBUSDT.6",
-  "TRBUSDT.6",
-  "ALGOUSDT.6",
-  "SUIUSDT.6",
   "LTCUSDT.6",
-  "CASHCATUSDT.6",
-  "ENAUSDT.6"
+  "ALGOUSDT.6",
+  "DOTUSDT.6",
+  "LITUSDT.6",
+  "BNBUSDT.6",
+  "ENAUSDT.6",
+  "TRBUSDT.6"
  ],
  "last_tiers": {
-  "BNBUSDT.6": "IMMINENT",
-  "TRBUSDT.6": "BUILDING",
+  "LTCUSDT.6": "BUILDING",
   "ALGOUSDT.6": "BUILDING",
-  "SUIUSDT.6": "BUILDING",
-  "LTCUSDT.6": "WATCH",
-  "CASHCATUSDT.6": "WATCH",
-  "ENAUSDT.6": "WATCH"
+  "DOTUSDT.6": "BUILDING",
+  "LITUSDT.6": "WATCH",
+  "BNBUSDT.6": "WATCH",
+  "ENAUSDT.6": "WATCH",
+  "TRBUSDT.6": "WATCH"
  },
- "last_scan": "2026-10-29T10:44:00+00:00",
+ "last_scan": "2026-10-29T11:40:00+00:00",
  "last_digest_key": "2026-10-29T08"
 }
