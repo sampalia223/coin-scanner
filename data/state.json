@@ -36,23 +36,23 @@
   "KASUSDT.6": "2026-10-30T11:36:00+00:00"
  },
  "last_top": [
-  "TRXUSDT.6",
   "MORPHOUSDT.6",
   "BNBUSDT.6",
-  "KASUSDT.6",
-  "LITUSDT.6",
+  "COINUSDT.6",
   "AVAXUSDT.6",
-  "RENDERUSDT.6"
+  "XPLUSDT.6",
+  "1000PEPEUSDT.6",
+  "XRPUSDT.6"
  ],
  "last_tiers": {
-  "TRXUSDT.6": "IMMINENT",
   "MORPHOUSDT.6": "BUILDING",
   "BNBUSDT.6": "BUILDING",
-  "KASUSDT.6": "BUILDING",
-  "LITUSDT.6": "BUILDING",
+  "COINUSDT.6": "WATCH",
   "AVAXUSDT.6": "WATCH",
-  "RENDERUSDT.6": "WATCH"
+  "XPLUSDT.6": "WATCH",
+  "1000PEPEUSDT.6": "WATCH",
+  "XRPUSDT.6": "WATCH"
  },
- "last_scan": "2026-10-30T13:57:00+00:00",
+ "last_scan": "2026-10-30T14:52:00+00:00",
  "last_digest_key": "2026-10-30T12"
 }
