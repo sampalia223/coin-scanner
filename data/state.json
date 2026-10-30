@@ -1,5 +1,5 @@
 {
- "last_heartbeat": "2026-10-30T11:36:00+00:00",
+ "last_heartbeat": "2026-10-30T12:48:00+00:00",
  "last_alert": {
   "SNDKUSDT.6": "2026-10-26T14:50:00+00:00",
   "SPCXUSDT.6": "2026-10-26T14:50:00+00:00",
@@ -36,23 +36,23 @@
   "KASUSDT.6": "2026-10-30T11:36:00+00:00"
  },
  "last_top": [
-  "KASUSDT.6",
-  "TRXUSDT.6",
-  "LITUSDT.6",
   "MORPHOUSDT.6",
+  "LITUSDT.6",
+  "KASUSDT.6",
   "BNBUSDT.6",
-  "XLMUSDT.6",
-  "HYPEUSDT.6"
+  "SKYUSDT.6",
+  "ZROUSDT.6",
+  "TRXUSDT.6"
  ],
  "last_tiers": {
-  "KASUSDT.6": "IMMINENT",
-  "TRXUSDT.6": "IMMINENT",
-  "LITUSDT.6": "BUILDING",
   "MORPHOUSDT.6": "BUILDING",
+  "LITUSDT.6": "BUILDING",
+  "KASUSDT.6": "BUILDING",
   "BNBUSDT.6": "BUILDING",
-  "XLMUSDT.6": "BUILDING",
-  "HYPEUSDT.6": "BUILDING"
+  "SKYUSDT.6": "BUILDING",
+  "ZROUSDT.6": "BUILDING",
+  "TRXUSDT.6": "BUILDING"
  },
- "last_scan": "2026-10-30T11:36:00+00:00",
- "last_digest_key": "2026-10-30T08"
+ "last_scan": "2026-10-30T12:48:00+00:00",
+ "last_digest_key": "2026-10-30T12"
 }
