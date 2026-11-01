@@ -1,5 +1,5 @@
 {
- "last_heartbeat": "2026-11-01T12:44:00+00:00",
+ "last_heartbeat": "2026-11-01T13:45:00+00:00",
  "last_alert": {
   "SNDKUSDT.6": "2026-10-26T14:50:00+00:00",
   "SPCXUSDT.6": "2026-10-26T14:50:00+00:00",
@@ -39,26 +39,27 @@
   "BEAMUSDT.6": "2026-10-31T10:33:00+00:00",
   "FFUSDT.6": "2026-10-31T17:30:00+00:00",
   "ATOMUSDT.6": "2026-11-01T11:30:00+00:00",
-  "CHIPUSDT.6": "2026-11-01T12:44:00+00:00"
+  "CHIPUSDT.6": "2026-11-01T12:44:00+00:00",
+  "TAOUSDT.6": "2026-11-01T13:45:00+00:00"
  },
  "last_top": [
+  "TAOUSDT.6",
   "CHIPUSDT.6",
   "WIFUSDT.6",
-  "TAOUSDT.6",
-  "TRUMPUSDT.6",
   "PENGUUSDT.6",
+  "PYTHUSDT.6",
   "AEROUSDT.6",
-  "QNTUSDT.6"
+  "BTWUSDT.6"
  ],
  "last_tiers": {
-  "CHIPUSDT.6": "IMMINENT",
+  "TAOUSDT.6": "IMMINENT",
+  "CHIPUSDT.6": "BUILDING",
   "WIFUSDT.6": "WATCH",
-  "TAOUSDT.6": "WATCH",
-  "TRUMPUSDT.6": "WATCH",
   "PENGUUSDT.6": "WATCH",
+  "PYTHUSDT.6": "WATCH",
   "AEROUSDT.6": "WATCH",
-  "QNTUSDT.6": "WATCH"
+  "BTWUSDT.6": "WATCH"
  },
- "last_scan": "2026-11-01T12:44:00+00:00",
+ "last_scan": "2026-11-01T13:45:00+00:00",
  "last_digest_key": "2026-11-01T12"
 }
