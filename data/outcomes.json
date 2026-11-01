@@ -143,6 +143,32 @@
      "close": -0.004048582995951344
     }
    }
+  },
+  {
+   "symbol": "ATOMUSDT.6",
+   "ticker": "ATOMUSDT",
+   "tier": "IMMINENT",
+   "score": 59.2,
+   "lean": "Crowded SHORTS - upside squeeze risk",
+   "added": "2026-11-01T08:45:00+00:00",
+   "t0": "2026-11-01T08:00:00+00:00",
+   "p0": 1.49,
+   "typ4": 0.02000441856296662,
+   "p90_12": 0.06436926276915238,
+   "done": {}
+  },
+  {
+   "symbol": "AVAXUSDT.6",
+   "ticker": "AVAXUSDT",
+   "tier": "BUILDING",
+   "score": 41.2,
+   "lean": "Crowded SHORTS - upside squeeze risk",
+   "added": "2026-11-01T08:45:00+00:00",
+   "t0": "2026-11-01T08:00:00+00:00",
+   "p0": 8.882,
+   "typ4": 0.017918028622458258,
+   "p90_12": 0.058201121526615315,
+   "done": {}
   }
  ],
  "finished": [
