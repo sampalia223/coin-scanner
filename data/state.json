@@ -46,23 +46,23 @@
   "XRPUSDT.6": "2026-11-02T01:59:00+00:00"
  },
  "last_top": [
-  "XRPUSDT.6",
-  "TRUMPUSDT.6",
-  "TAOUSDT.6",
-  "ARBUSDT.6",
-  "SNXXUSDT.6",
   "AVAXUSDT.6",
-  "AAVEUSDT.6"
+  "USELESSUSDT.6",
+  "BCHUSDT.6",
+  "STRKUSDT.6",
+  "XRPUSDT.6",
+  "TAOUSDT.6",
+  "TRUMPUSDT.6"
  ],
  "last_tiers": {
-  "XRPUSDT.6": "IMMINENT",
-  "TRUMPUSDT.6": "IMMINENT",
+  "AVAXUSDT.6": "BUILDING",
+  "USELESSUSDT.6": "BUILDING",
+  "BCHUSDT.6": "BUILDING",
+  "STRKUSDT.6": "BUILDING",
+  "XRPUSDT.6": "BUILDING",
   "TAOUSDT.6": "BUILDING",
-  "ARBUSDT.6": "BUILDING",
-  "SNXXUSDT.6": "WATCH",
-  "AVAXUSDT.6": "WATCH",
-  "AAVEUSDT.6": "WATCH"
+  "TRUMPUSDT.6": "BUILDING"
  },
- "last_scan": "2026-11-02T02:49:00+00:00",
+ "last_scan": "2026-11-02T03:52:00+00:00",
  "last_digest_key": "2026-11-02T00"
 }
