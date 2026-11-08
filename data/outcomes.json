@@ -87,6 +87,45 @@
    "typ4": 0.024162616150214294,
    "p90_12": 0.05795858790206546,
    "done": {}
+  },
+  {
+   "symbol": "CRVUSDT.6",
+   "ticker": "CRVUSDT",
+   "tier": "IMMINENT",
+   "score": 70.9,
+   "lean": "Flow sell-led (unconfirmed)",
+   "added": "2026-11-08T16:36:00+00:00",
+   "t0": "2026-11-08T16:00:00+00:00",
+   "p0": 0.2588,
+   "typ4": 0.023090831631130772,
+   "p90_12": 0.07283981501567989,
+   "done": {}
+  },
+  {
+   "symbol": "1000PEPEUSDT.6",
+   "ticker": "1000PEPEUSDT",
+   "tier": "BUILDING",
+   "score": 48.4,
+   "lean": "Crowded SHORTS - upside squeeze risk",
+   "added": "2026-11-08T16:36:00+00:00",
+   "t0": "2026-11-08T16:00:00+00:00",
+   "p0": 0.005072,
+   "typ4": 0.031988616345753965,
+   "p90_12": 0.0856160801862943,
+   "done": {}
+  },
+  {
+   "symbol": "ALGOUSDT.6",
+   "ticker": "ALGOUSDT",
+   "tier": "BUILDING",
+   "score": 41.5,
+   "lean": "Flow sell-led (unconfirmed)",
+   "added": "2026-11-08T16:36:00+00:00",
+   "t0": "2026-11-08T16:00:00+00:00",
+   "p0": 0.0937,
+   "typ4": 0.020168990915883863,
+   "p90_12": 0.06700395039932262,
+   "done": {}
   }
  ],
  "finished": [
