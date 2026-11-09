@@ -314,6 +314,32 @@
    "typ4": 0.005655932128419601,
    "p90_12": 0.019029439242323424,
    "done": {}
+  },
+  {
+   "symbol": "1000PEPEUSDT.6",
+   "ticker": "1000PEPEUSDT",
+   "tier": "IMMINENT",
+   "score": 58.4,
+   "lean": "No clear lean",
+   "added": "2026-11-09T09:57:00+00:00",
+   "t0": "2026-11-09T09:00:00+00:00",
+   "p0": 0.005185,
+   "typ4": 0.03291678541216432,
+   "p90_12": 0.0856160801862943,
+   "done": {}
+  },
+  {
+   "symbol": "PIEVERSEUSDT.6",
+   "ticker": "PIEVERSEUSDT",
+   "tier": "IMMINENT",
+   "score": 55.9,
+   "lean": "Crowded SHORTS - upside squeeze risk",
+   "added": "2026-11-09T09:57:00+00:00",
+   "t0": "2026-11-09T09:00:00+00:00",
+   "p0": 1.6392,
+   "typ4": 0.03431491256241835,
+   "p90_12": 0.07099324846830403,
+   "done": {}
   }
  ],
  "finished": [
