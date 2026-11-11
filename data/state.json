@@ -94,5 +94,6 @@
   "SEIUSDT.6": "WATCH"
  },
  "last_scan": "2026-11-11T01:58:00+00:00",
- "last_digest_key": "2026-11-11T00"
+ "last_digest_key": "2026-11-11T00",
+ "last_failure_alert": "2026-11-11T02:47:19.231540+00:00"
 }
