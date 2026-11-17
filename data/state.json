@@ -80,24 +80,24 @@
   "PYTHUSDT.6": "2026-11-16T19:53:00+00:00"
  },
  "last_top": [
-  "WLFIUSDT.6",
-  "TIAUSDT.6",
-  "1000BONKUSDT.6",
   "ALGOUSDT.6",
-  "ICNTUSDT.6",
-  "ZROUSDT.6",
-  "ETHFIUSDT.6"
+  "BEAMUSDT.6",
+  "OPUSDT.6",
+  "1000BONKUSDT.6",
+  "TIAUSDT.6",
+  "ETHFIUSDT.6",
+  "BARDUSDT.6"
  ],
  "last_tiers": {
-  "WLFIUSDT.6": "BUILDING",
-  "TIAUSDT.6": "BUILDING",
+  "ALGOUSDT.6": "BUILDING",
+  "BEAMUSDT.6": "WATCH",
+  "OPUSDT.6": "WATCH",
   "1000BONKUSDT.6": "WATCH",
-  "ALGOUSDT.6": "WATCH",
-  "ICNTUSDT.6": "WATCH",
-  "ZROUSDT.6": "WATCH",
-  "ETHFIUSDT.6": "WATCH"
+  "TIAUSDT.6": "WATCH",
+  "ETHFIUSDT.6": "WATCH",
+  "BARDUSDT.6": "WATCH"
  },
- "last_scan": "2026-11-17T04:56:00+00:00",
+ "last_scan": "2026-11-17T05:57:00+00:00",
  "last_digest_key": "2026-11-17T04",
  "last_failure_alert": "2026-11-15T08:02:29.990627+00:00"
 }
