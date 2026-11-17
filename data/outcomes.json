@@ -280,6 +280,32 @@
    "typ4": 0.03354720786151014,
    "p90_12": 0.09574258941627298,
    "done": {}
+  },
+  {
+   "symbol": "PENGUUSDT.6",
+   "ticker": "PENGUUSDT",
+   "tier": "IMMINENT",
+   "score": 60.2,
+   "lean": "Flow sell-led (unconfirmed)",
+   "added": "2026-11-17T10:59:00+00:00",
+   "t0": "2026-11-17T10:00:00+00:00",
+   "p0": 0.004759,
+   "typ4": 0.024411233728244847,
+   "p90_12": 0.06724186824031735,
+   "done": {}
+  },
+  {
+   "symbol": "GRAMUSDT.6",
+   "ticker": "GRAMUSDT",
+   "tier": "IMMINENT",
+   "score": 54.9,
+   "lean": "Flow sell-led (unconfirmed)",
+   "added": "2026-11-17T10:59:00+00:00",
+   "t0": "2026-11-17T10:00:00+00:00",
+   "p0": 1.028,
+   "typ4": 0.028716952118837822,
+   "p90_12": 0.06859313052904485,
+   "done": {}
   }
  ],
  "finished": [
