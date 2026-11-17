@@ -175,6 +175,32 @@
      "close": -0.011144692104268938
     }
    }
+  },
+  {
+   "symbol": "HOODUSDT.6",
+   "ticker": "HOODUSDT",
+   "tier": "BUILDING",
+   "score": 55.7,
+   "lean": "Flow sell-led (unconfirmed)",
+   "added": "2026-11-17T00:59:00+00:00",
+   "t0": "2026-11-17T00:00:00+00:00",
+   "p0": 71.67,
+   "typ4": 0.016794794073282028,
+   "p90_12": 0.0512727046427321,
+   "done": {}
+  },
+  {
+   "symbol": "ICPUSDT.6",
+   "ticker": "ICPUSDT",
+   "tier": "BUILDING",
+   "score": 50.8,
+   "lean": "Crowded SHORTS - upside squeeze risk",
+   "added": "2026-11-17T00:59:00+00:00",
+   "t0": "2026-11-17T00:00:00+00:00",
+   "p0": 2.491,
+   "typ4": 0.026808321424448993,
+   "p90_12": 0.06338761192400089,
+   "done": {}
   }
  ],
  "finished": [
