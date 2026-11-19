@@ -1,5 +1,5 @@
 {
- "last_heartbeat": "2026-11-19T17:02:00+00:00",
+ "last_heartbeat": "2026-11-19T18:56:00+00:00",
  "last_alert": {
   "SNDKUSDT.6": "2026-10-26T14:50:00+00:00",
   "SPCXUSDT.6": "2026-10-26T14:50:00+00:00",
@@ -34,7 +34,7 @@
   "PLUMEUSDT.6": "2026-10-30T05:42:00+00:00",
   "LINKUSDT.6": "2026-10-30T04:44:00+00:00",
   "KASUSDT.6": "2026-11-03T10:53:00+00:00",
-  "AVAXUSDT.6": "2026-11-03T14:08:00+00:00",
+  "AVAXUSDT.6": "2026-11-19T18:56:00+00:00",
   "VIRTUALUSDT.6": "2026-10-31T10:33:00+00:00",
   "BEAMUSDT.6": "2026-10-31T10:33:00+00:00",
   "FFUSDT.6": "2026-10-31T17:30:00+00:00",
@@ -85,24 +85,24 @@
   "INJUSDT.6": "2026-11-19T17:02:00+00:00"
  },
  "last_top": [
-  "INJUSDT.6",
-  "WLFIUSDT.6",
   "AVAXUSDT.6",
-  "APTUSDT.6",
-  "ETCUSDT.6",
+  "WLFIUSDT.6",
   "WLDUSDT.6",
-  "PENGUUSDT.6"
+  "APTUSDT.6",
+  "LTCUSDT.6",
+  "ETCUSDT.6",
+  "BNBUSDT.6"
  ],
  "last_tiers": {
-  "INJUSDT.6": "IMMINENT",
+  "AVAXUSDT.6": "IMMINENT",
   "WLFIUSDT.6": "BUILDING",
-  "AVAXUSDT.6": "WATCH",
+  "WLDUSDT.6": "BUILDING",
   "APTUSDT.6": "WATCH",
+  "LTCUSDT.6": "WATCH",
   "ETCUSDT.6": "WATCH",
-  "WLDUSDT.6": "WATCH",
-  "PENGUUSDT.6": "WATCH"
+  "BNBUSDT.6": "WATCH"
  },
- "last_scan": "2026-11-19T17:56:00+00:00",
+ "last_scan": "2026-11-19T18:56:00+00:00",
  "last_digest_key": "2026-11-19T08",
  "last_failure_alert": "2026-11-15T08:02:29.990627+00:00"
 }
