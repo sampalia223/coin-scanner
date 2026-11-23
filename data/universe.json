@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-22T19:21:00.767719+00:00",
- "full_generated": "2026-11-21T19:19:11.183295+00:00",
- "mode": "quick",
+ "generated": "2026-11-23T19:28:47.623099+00:00",
+ "full_generated": "2026-11-23T19:28:47.623099+00:00",
+ "mode": "full",
  "exchange_code": "6",
  "btc_symbol": "BTCUSDT.6",
  "excluded": [
@@ -76,7 +76,7 @@
    "denom": "BASE_ASSET",
    "ticker": "SOLUSDT",
    "has_ls": true,
-   "oi_usd": 399692717.496,
+   "oi_usd": 402275079.552,
    "mexc": null,
    "spot": "SOLUSD.A"
   },
@@ -86,7 +86,7 @@
    "denom": "BASE_ASSET",
    "ticker": "HYPEUSDT",
    "has_ls": true,
-   "oi_usd": 202388489.70900002,
+   "oi_usd": 189831815.1009,
    "mexc": null,
    "spot": "HYPEUSD.A"
   },
@@ -96,7 +96,7 @@
    "denom": "BASE_ASSET",
    "ticker": "XRPUSDT",
    "has_ls": true,
-   "oi_usd": 178778768.40688002,
+   "oi_usd": 188546453.48997,
    "mexc": null,
    "spot": "XRPUSD.A"
   },
@@ -106,7 +106,7 @@
    "denom": "BASE_ASSET",
    "ticker": "ZECUSDT",
    "has_ls": true,
-   "oi_usd": 130227675.40439999,
+   "oi_usd": 122431889.21280001,
    "mexc": null,
    "spot": "ZECUSD.A"
   },
@@ -116,7 +116,7 @@
    "denom": "BASE_ASSET",
    "ticker": "NEARUSDT",
    "has_ls": true,
-   "oi_usd": 96320945.396,
+   "oi_usd": 97170454.5084,
    "mexc": null,
    "spot": "NEARUSD.A"
   },
@@ -126,7 +126,7 @@
    "denom": "BASE_ASSET",
    "ticker": "DOGEUSDT",
    "has_ls": true,
-   "oi_usd": 78204549.52884,
+   "oi_usd": 87827315.23538001,
    "mexc": null,
    "spot": "DOGEUSD.A"
   },
@@ -136,7 +136,7 @@
    "denom": "BASE_ASSET",
    "ticker": "BNBUSDT",
    "has_ls": true,
-   "oi_usd": 71182649.8968,
+   "oi_usd": 69504144.829,
    "mexc": null,
    "spot": "BNBUSD.A"
   },
@@ -146,19 +146,9 @@
    "denom": "BASE_ASSET",
    "ticker": "TRXUSDT",
    "has_ls": true,
-   "oi_usd": 58739681.04760001,
+   "oi_usd": 58201006.692600004,
    "mexc": null,
    "spot": "TRXUSD.A"
-  },
-  {
-   "symbol": "ANTUSDT.6",
-   "base": "ANT",
-   "denom": "BASE_ASSET",
-   "ticker": "ANTUSDT",
-   "has_ls": true,
-   "oi_usd": 51072418.8485,
-   "mexc": null,
-   "spot": null
   },
   {
    "symbol": "SUIUSDT.6",
@@ -166,9 +156,19 @@
    "denom": "BASE_ASSET",
    "ticker": "SUIUSDT",
    "has_ls": true,
-   "oi_usd": 49129215.155999996,
+   "oi_usd": 53249489.48,
    "mexc": null,
    "spot": "SUIUSD.A"
+  },
+  {
+   "symbol": "ANTUSDT.6",
+   "base": "ANT",
+   "denom": "BASE_ASSET",
+   "ticker": "ANTUSDT",
+   "has_ls": true,
+   "oi_usd": 50885000.50256,
+   "mexc": null,
+   "spot": null
   },
   {
    "symbol": "LTCUSDT.6",
@@ -176,7 +176,7 @@
    "denom": "BASE_ASSET",
    "ticker": "LTCUSDT",
    "has_ls": true,
-   "oi_usd": 43770244.14,
+   "oi_usd": 44267659.85700001,
    "mexc": null,
    "spot": "LTCUSD.A"
   },
@@ -186,7 +186,7 @@
    "denom": "BASE_ASSET",
    "ticker": "LINKUSDT",
    "has_ls": true,
-   "oi_usd": 41583819.2,
+   "oi_usd": 41185144.477199994,
    "mexc": null,
    "spot": "LINKUSDT.A"
   },
@@ -196,7 +196,7 @@
    "denom": "BASE_ASSET",
    "ticker": "AVAXUSDT",
    "has_ls": true,
-   "oi_usd": 38004505.78080001,
+   "oi_usd": 38635662.7904,
    "mexc": null,
    "spot": "AVAXUSD.A"
   },
@@ -206,19 +206,9 @@
    "denom": "BASE_ASSET",
    "ticker": "ADAUSDT",
    "has_ls": true,
-   "oi_usd": 37316406.7948,
+   "oi_usd": 37887069.2688,
    "mexc": null,
    "spot": "ADAUSD.A"
-  },
-  {
-   "symbol": "AAVEUSDT.6",
-   "base": "AAVE",
-   "denom": "BASE_ASSET",
-   "ticker": "AAVEUSDT",
-   "has_ls": true,
-   "oi_usd": 35653546.9737,
-   "mexc": null,
-   "spot": "AAVEUSD.A"
   },
   {
    "symbol": "ENAUSDT.6",
@@ -226,19 +216,9 @@
    "denom": "BASE_ASSET",
    "ticker": "ENAUSDT",
    "has_ls": true,
-   "oi_usd": 35434356.80796,
+   "oi_usd": 34777926.454339996,
    "mexc": null,
    "spot": "ENAUSD.A"
-  },
-  {
-   "symbol": "VVVUSDT.6",
-   "base": "VVV",
-   "denom": "BASE_ASSET",
-   "ticker": "VVVUSDT",
-   "has_ls": true,
-   "oi_usd": 34546590.34452,
-   "mexc": null,
-   "spot": "sVVVUSDT.6"
   },
   {
    "symbol": "1000PEPEUSDT.6",
@@ -246,9 +226,29 @@
    "denom": "BASE_ASSET",
    "ticker": "1000PEPEUSDT",
    "has_ls": true,
-   "oi_usd": 34346710.7742,
+   "oi_usd": 33728492.28,
    "mexc": null,
    "spot": null
+  },
+  {
+   "symbol": "VVVUSDT.6",
+   "base": "VVV",
+   "denom": "BASE_ASSET",
+   "ticker": "VVVUSDT",
+   "has_ls": true,
+   "oi_usd": 33043255.695449997,
+   "mexc": null,
+   "spot": "sVVVUSDT.6"
+  },
+  {
+   "symbol": "AAVEUSDT.6",
+   "base": "AAVE",
+   "denom": "BASE_ASSET",
+   "ticker": "AAVEUSDT",
+   "has_ls": true,
+   "oi_usd": 32799574.2492,
+   "mexc": null,
+   "spot": "AAVEUSD.A"
   },
   {
    "symbol": "WLDUSDT.6",
@@ -256,7 +256,7 @@
    "denom": "BASE_ASSET",
    "ticker": "WLDUSDT",
    "has_ls": true,
-   "oi_usd": 31998715.212120004,
+   "oi_usd": 31149901.7931,
    "mexc": null,
    "spot": "WLDUSD.A"
   },
@@ -266,7 +266,7 @@
    "denom": "BASE_ASSET",
    "ticker": "LITUSDT",
    "has_ls": true,
-   "oi_usd": 30325029.385080002,
+   "oi_usd": 31120215.70221,
    "mexc": null,
    "spot": "sLITUSDT.6"
   },
@@ -276,7 +276,7 @@
    "denom": "BASE_ASSET",
    "ticker": "ASTERUSDT",
    "has_ls": true,
-   "oi_usd": 29733735.4572,
+   "oi_usd": 29976583.6392,
    "mexc": null,
    "spot": "ASTERUSD.A"
   },
@@ -286,7 +286,7 @@
    "denom": "BASE_ASSET",
    "ticker": "XMRUSDT",
    "has_ls": true,
-   "oi_usd": 28008849.792,
+   "oi_usd": 28678682.035899997,
    "mexc": null,
    "spot": "XMRUSDT.K"
   },
@@ -296,7 +296,7 @@
    "denom": "BASE_ASSET",
    "ticker": "MNTUSDT",
    "has_ls": true,
-   "oi_usd": 27324259.18184,
+   "oi_usd": 28526744.003990002,
    "mexc": null,
    "spot": "sMNTUSDT.6"
   },
@@ -306,7 +306,7 @@
    "denom": "BASE_ASSET",
    "ticker": "UNIUSDT",
    "has_ls": true,
-   "oi_usd": 27057231.101999998,
+   "oi_usd": 26455937.427,
    "mexc": null,
    "spot": "UNIUSD.A"
   },
@@ -316,7 +316,7 @@
    "denom": "BASE_ASSET",
    "ticker": "ONDOUSDT",
    "has_ls": true,
-   "oi_usd": 25912738.3588,
+   "oi_usd": 25940958.6288,
    "mexc": null,
    "spot": "ONDOUSD.A"
   },
@@ -326,19 +326,9 @@
    "denom": "BASE_ASSET",
    "ticker": "TAOUSDT",
    "has_ls": true,
-   "oi_usd": 24922295.05122,
+   "oi_usd": 25501595.6461,
    "mexc": null,
    "spot": "TAOUSD.A"
-  },
-  {
-   "symbol": "PUMPFUNUSDT.6",
-   "base": "PUMP",
-   "denom": "BASE_ASSET",
-   "ticker": "PUMPFUNUSDT",
-   "has_ls": true,
-   "oi_usd": 21683230.208,
-   "mexc": null,
-   "spot": "PUMPUSD.A"
   },
   {
    "symbol": "BCHUSDT.6",
@@ -346,19 +336,19 @@
    "denom": "BASE_ASSET",
    "ticker": "BCHUSDT",
    "has_ls": true,
-   "oi_usd": 21654927.3768,
+   "oi_usd": 22607740.4042,
    "mexc": null,
    "spot": "BCHUSD.A"
   },
   {
-   "symbol": "PIEVERSEUSDT.6",
-   "base": "PIEVERSE",
+   "symbol": "PUMPFUNUSDT.6",
+   "base": "PUMP",
    "denom": "BASE_ASSET",
-   "ticker": "PIEVERSEUSDT",
+   "ticker": "PUMPFUNUSDT",
    "has_ls": true,
-   "oi_usd": 21123072.8415,
+   "oi_usd": 20713384.8672,
    "mexc": null,
-   "spot": "sPIEVERSEUSDT.6"
+   "spot": "PUMPUSD.A"
   },
   {
    "symbol": "XLMUSDT.6",
@@ -366,7 +356,7 @@
    "denom": "BASE_ASSET",
    "ticker": "XLMUSDT",
    "has_ls": true,
-   "oi_usd": 19861700.739,
+   "oi_usd": 19538649.747,
    "mexc": null,
    "spot": "XLMUSD.A"
   },
@@ -376,19 +366,9 @@
    "denom": "BASE_ASSET",
    "ticker": "ZROUSDT",
    "has_ls": true,
-   "oi_usd": 19145342.43648,
+   "oi_usd": 19369031.4378,
    "mexc": null,
    "spot": "ZROUSD.A"
-  },
-  {
-   "symbol": "WLFIUSDT.6",
-   "base": "WLFI",
-   "denom": "BASE_ASSET",
-   "ticker": "WLFIUSDT",
-   "has_ls": true,
-   "oi_usd": 18915681.4506,
-   "mexc": null,
-   "spot": "WLFIUSD.A"
   },
   {
    "symbol": "GRAMUSDT.6",
@@ -396,39 +376,29 @@
    "denom": "BASE_ASSET",
    "ticker": "GRAMUSDT",
    "has_ls": true,
-   "oi_usd": 18836634.8544,
+   "oi_usd": 19182321.9364,
    "mexc": null,
    "spot": "GRAMUSD.A"
   },
   {
-   "symbol": "GRASSUSDT.6",
-   "base": "GRASS",
+   "symbol": "PIEVERSEUSDT.6",
+   "base": "PIEVERSE",
    "denom": "BASE_ASSET",
-   "ticker": "GRASSUSDT",
+   "ticker": "PIEVERSEUSDT",
    "has_ls": true,
-   "oi_usd": 17020121.535,
+   "oi_usd": 19064198.1855,
    "mexc": null,
-   "spot": "sGRASSUSDT.6"
+   "spot": "sPIEVERSEUSDT.6"
   },
   {
-   "symbol": "TRUMPUSDT.6",
-   "base": "TRUMP",
+   "symbol": "WLFIUSDT.6",
+   "base": "WLFI",
    "denom": "BASE_ASSET",
-   "ticker": "TRUMPUSDT",
+   "ticker": "WLFIUSDT",
    "has_ls": true,
-   "oi_usd": 17011605.8858,
+   "oi_usd": 18928967.43332,
    "mexc": null,
-   "spot": "TRUMPUSD.A"
-  },
-  {
-   "symbol": "HBARUSDT.6",
-   "base": "HBAR",
-   "denom": "BASE_ASSET",
-   "ticker": "HBARUSDT",
-   "has_ls": true,
-   "oi_usd": 15967633.38448,
-   "mexc": null,
-   "spot": "HBARUSD.A"
+   "spot": "WLFIUSD.A"
   },
   {
    "symbol": "XPLUSDT.6",
@@ -436,19 +406,39 @@
    "denom": "BASE_ASSET",
    "ticker": "XPLUSDT",
    "has_ls": true,
-   "oi_usd": 15867928.7312,
+   "oi_usd": 17942908.92955,
    "mexc": null,
    "spot": "XPLUSD.A"
   },
   {
-   "symbol": "ARBUSDT.6",
-   "base": "ARB",
+   "symbol": "TRUMPUSDT.6",
+   "base": "TRUMP",
    "denom": "BASE_ASSET",
-   "ticker": "ARBUSDT",
+   "ticker": "TRUMPUSDT",
    "has_ls": true,
-   "oi_usd": 14719780.445183998,
+   "oi_usd": 17195963.274,
    "mexc": null,
-   "spot": "ARB_USD.A"
+   "spot": "TRUMPUSD.A"
+  },
+  {
+   "symbol": "GRASSUSDT.6",
+   "base": "GRASS",
+   "denom": "BASE_ASSET",
+   "ticker": "GRASSUSDT",
+   "has_ls": true,
+   "oi_usd": 16574783.302000001,
+   "mexc": null,
+   "spot": "sGRASSUSDT.6"
+  },
+  {
+   "symbol": "HBARUSDT.6",
+   "base": "HBAR",
+   "denom": "BASE_ASSET",
+   "ticker": "HBARUSDT",
+   "has_ls": true,
+   "oi_usd": 15978744.779480001,
+   "mexc": null,
+   "spot": "HBARUSD.A"
   },
   {
    "symbol": "DOTUSDT.6",
@@ -456,9 +446,19 @@
    "denom": "BASE_ASSET",
    "ticker": "DOTUSDT",
    "has_ls": true,
-   "oi_usd": 14409289.28553,
+   "oi_usd": 15129566.84844,
    "mexc": null,
    "spot": "DOTUSD.A"
+  },
+  {
+   "symbol": "ARBUSDT.6",
+   "base": "ARB",
+   "denom": "BASE_ASSET",
+   "ticker": "ARBUSDT",
+   "has_ls": true,
+   "oi_usd": 14143013.08863,
+   "mexc": null,
+   "spot": "ARB_USD.A"
   },
   {
    "symbol": "INJUSDT.6",
@@ -466,19 +466,19 @@
    "denom": "BASE_ASSET",
    "ticker": "INJUSDT",
    "has_ls": true,
-   "oi_usd": 12641124.08,
+   "oi_usd": 12321473.634,
    "mexc": null,
    "spot": "INJUSD.A"
   },
   {
-   "symbol": "ETHFIUSDT.6",
-   "base": "ETHFI",
+   "symbol": "ARIAUSDT.6",
+   "base": "ARIA",
    "denom": "BASE_ASSET",
-   "ticker": "ETHFIUSDT",
+   "ticker": "ARIAUSDT",
    "has_ls": true,
-   "oi_usd": 10978497.7191,
+   "oi_usd": 10932672.45402,
    "mexc": null,
-   "spot": "ETHFIUSD.A"
+   "spot": null
   },
   {
    "symbol": "CCUSDT.6",
@@ -486,9 +486,19 @@
    "denom": "BASE_ASSET",
    "ticker": "CCUSDT",
    "has_ls": true,
-   "oi_usd": 10813437.76296,
+   "oi_usd": 10808121.827580001,
    "mexc": null,
    "spot": "sCCUSDT.6"
+  },
+  {
+   "symbol": "ETHFIUSDT.6",
+   "base": "ETHFI",
+   "denom": "BASE_ASSET",
+   "ticker": "ETHFIUSDT",
+   "has_ls": true,
+   "oi_usd": 10408579.74128,
+   "mexc": null,
+   "spot": "ETHFIUSD.A"
   },
   {
    "symbol": "AEROUSDT.6",
@@ -496,29 +506,19 @@
    "denom": "BASE_ASSET",
    "ticker": "AEROUSDT",
    "has_ls": true,
-   "oi_usd": 10606917.667,
+   "oi_usd": 10123567.7574,
    "mexc": null,
    "spot": "AEROUSD.A"
   },
   {
-   "symbol": "APTUSDT.6",
-   "base": "APT",
+   "symbol": "QNTUSDT.6",
+   "base": "QNT",
    "denom": "BASE_ASSET",
-   "ticker": "APTUSDT",
+   "ticker": "QNTUSDT",
    "has_ls": true,
-   "oi_usd": 10548750.972911999,
+   "oi_usd": 10010079.8628,
    "mexc": null,
-   "spot": "APTUSD.A"
-  },
-  {
-   "symbol": "SOXSUSDT.6",
-   "base": "SOXS",
-   "denom": "BASE_ASSET",
-   "ticker": "SOXSUSDT",
-   "has_ls": true,
-   "oi_usd": 10384049.832999999,
-   "mexc": null,
-   "spot": "SOXSUSD.P"
+   "spot": "QNTUSD.A"
   },
   {
    "symbol": "FFUSDT.6",
@@ -526,29 +526,19 @@
    "denom": "BASE_ASSET",
    "ticker": "FFUSDT",
    "has_ls": true,
-   "oi_usd": 10103749.18144,
+   "oi_usd": 9996444.72528,
    "mexc": null,
    "spot": "FFUSD.A"
   },
   {
-   "symbol": "STRKUSDT.6",
-   "base": "STRK",
+   "symbol": "APTUSDT.6",
+   "base": "APT",
    "denom": "BASE_ASSET",
-   "ticker": "STRKUSDT",
+   "ticker": "APTUSDT",
    "has_ls": true,
-   "oi_usd": 9760625.099424,
+   "oi_usd": 9899042.52946,
    "mexc": null,
-   "spot": "STRKUSD.A"
-  },
-  {
-   "symbol": "CRVUSDT.6",
-   "base": "CRV",
-   "denom": "BASE_ASSET",
-   "ticker": "CRVUSDT",
-   "has_ls": true,
-   "oi_usd": 9737608.60478,
-   "mexc": null,
-   "spot": "CRVUSD.A"
+   "spot": "APTUSD.A"
   },
   {
    "symbol": "ATOMUSDT.6",
@@ -556,9 +546,19 @@
    "denom": "BASE_ASSET",
    "ticker": "ATOMUSDT",
    "has_ls": true,
-   "oi_usd": 9512721.4512,
+   "oi_usd": 9871527.75,
    "mexc": null,
    "spot": "ATOMUSD.A"
+  },
+  {
+   "symbol": "STRKUSDT.6",
+   "base": "STRK",
+   "denom": "BASE_ASSET",
+   "ticker": "STRKUSDT",
+   "has_ls": true,
+   "oi_usd": 9722551.94001,
+   "mexc": null,
+   "spot": "STRKUSD.A"
   },
   {
    "symbol": "POLUSDT.6",
@@ -566,7 +566,7 @@
    "denom": "BASE_ASSET",
    "ticker": "POLUSDT",
    "has_ls": true,
-   "oi_usd": 9321405.53968,
+   "oi_usd": 9482784.57448,
    "mexc": null,
    "spot": "POLUSD.A"
   },
@@ -576,19 +576,9 @@
    "denom": "BASE_ASSET",
    "ticker": "ICPUSDT",
    "has_ls": true,
-   "oi_usd": 9307503.5272,
+   "oi_usd": 9369618.070700001,
    "mexc": null,
    "spot": "ICPUSD.A"
-  },
-  {
-   "symbol": "QNTUSDT.6",
-   "base": "QNT",
-   "denom": "BASE_ASSET",
-   "ticker": "QNTUSDT",
-   "has_ls": true,
-   "oi_usd": 8895237.6758,
-   "mexc": null,
-   "spot": "QNTUSD.A"
   },
   {
    "symbol": "PENGUUSDT.6",
@@ -596,49 +586,19 @@
    "denom": "BASE_ASSET",
    "ticker": "PENGUUSDT",
    "has_ls": true,
-   "oi_usd": 8887670.76962,
+   "oi_usd": 9182640.78636,
    "mexc": null,
    "spot": "PENGUUSD.A"
   },
   {
-   "symbol": "FARTCOINUSDT.6",
-   "base": "FARTCOIN",
+   "symbol": "CRVUSDT.6",
+   "base": "CRV",
    "denom": "BASE_ASSET",
-   "ticker": "FARTCOINUSDT",
+   "ticker": "CRVUSDT",
    "has_ls": true,
-   "oi_usd": 8678858.479,
+   "oi_usd": 9039479.40763,
    "mexc": null,
-   "spot": "FARTCOINUSD.C"
-  },
-  {
-   "symbol": "FILUSDT.6",
-   "base": "FIL",
-   "denom": "BASE_ASSET",
-   "ticker": "FILUSDT",
-   "has_ls": true,
-   "oi_usd": 8658296.23428,
-   "mexc": null,
-   "spot": "FILUSD.A"
-  },
-  {
-   "symbol": "ARIAUSDT.6",
-   "base": "ARIA",
-   "denom": "BASE_ASSET",
-   "ticker": "ARIAUSDT",
-   "has_ls": true,
-   "oi_usd": 8575501.5265,
-   "mexc": null,
-   "spot": null
-  },
-  {
-   "symbol": "LDOUSDT.6",
-   "base": "LDO",
-   "denom": "BASE_ASSET",
-   "ticker": "LDOUSDT",
-   "has_ls": true,
-   "oi_usd": 8235265.774159999,
-   "mexc": null,
-   "spot": "LDOUSD.A"
+   "spot": "CRVUSD.A"
   },
   {
    "symbol": "CAPUSDT.6",
@@ -646,59 +606,59 @@
    "denom": "BASE_ASSET",
    "ticker": "CAPUSDT",
    "has_ls": true,
-   "oi_usd": 7885878.7896,
+   "oi_usd": 9016561.32,
    "mexc": null,
    "spot": "sCAPUSDT.6"
   },
   {
-   "symbol": "SPXUSDT.6",
-   "base": "SPX",
+   "symbol": "FILUSDT.6",
+   "base": "FIL",
    "denom": "BASE_ASSET",
-   "ticker": "SPXUSDT",
+   "ticker": "FILUSDT",
    "has_ls": true,
-   "oi_usd": 7204747.3056,
+   "oi_usd": 8841011.07704,
    "mexc": null,
-   "spot": "sSPXUSDT.6"
+   "spot": "FILUSD.A"
   },
   {
-   "symbol": "PENDLEUSDT.6",
-   "base": "PENDLE",
+   "symbol": "LDOUSDT.6",
+   "base": "LDO",
    "denom": "BASE_ASSET",
-   "ticker": "PENDLEUSDT",
+   "ticker": "LDOUSDT",
    "has_ls": true,
-   "oi_usd": 7123220.0292,
+   "oi_usd": 8227964.81528,
    "mexc": null,
-   "spot": "PENDLEUSD.A"
+   "spot": "LDOUSD.A"
   },
   {
-   "symbol": "EVAAUSDT.6",
-   "base": "EVAA",
+   "symbol": "FARTCOINUSDT.6",
+   "base": "FARTCOIN",
    "denom": "BASE_ASSET",
-   "ticker": "EVAAUSDT",
+   "ticker": "FARTCOINUSDT",
    "has_ls": true,
-   "oi_usd": 6962866.68324,
+   "oi_usd": 8152382.12932,
    "mexc": null,
-   "spot": "EVAAUSD.K"
+   "spot": "FARTCOINUSD.C"
   },
   {
-   "symbol": "BLESSUSDT.6",
-   "base": "BLESS",
+   "symbol": "COSTUSDT.6",
+   "base": "COST",
    "denom": "BASE_ASSET",
-   "ticker": "BLESSUSDT",
+   "ticker": "COSTUSDT",
    "has_ls": true,
-   "oi_usd": 6775438.7054200005,
+   "oi_usd": 7950209.3,
    "mexc": null,
-   "spot": "BLESSUSD.K"
+   "spot": null
   },
   {
-   "symbol": "MONUSDT.6",
-   "base": "MON",
+   "symbol": "SOXSUSDT.6",
+   "base": "SOXS",
    "denom": "BASE_ASSET",
-   "ticker": "MONUSDT",
+   "ticker": "SOXSUSDT",
    "has_ls": true,
-   "oi_usd": 6676650.3976799995,
+   "oi_usd": 7764116.445,
    "mexc": null,
-   "spot": "sMONUSDT.6"
+   "spot": "SOXSUSD.P"
   },
   {
    "symbol": "SNXXUSDT.6",
@@ -706,19 +666,79 @@
    "denom": "BASE_ASSET",
    "ticker": "SNXXUSDT",
    "has_ls": true,
-   "oi_usd": 6546758.2464,
+   "oi_usd": 7327048.304640001,
    "mexc": null,
    "spot": "SNXXUSD.P"
   },
   {
-   "symbol": "PONSUSDT.6",
-   "base": "PONS",
+   "symbol": "EVAAUSDT.6",
+   "base": "EVAA",
    "denom": "BASE_ASSET",
-   "ticker": "PONSUSDT",
+   "ticker": "EVAAUSDT",
    "has_ls": true,
-   "oi_usd": 6356322.2844,
+   "oi_usd": 7281228.349119999,
    "mexc": null,
-   "spot": "sPONSUSDT.6"
+   "spot": "EVAAUSD.K"
+  },
+  {
+   "symbol": "PENDLEUSDT.6",
+   "base": "PENDLE",
+   "denom": "BASE_ASSET",
+   "ticker": "PENDLEUSDT",
+   "has_ls": true,
+   "oi_usd": 7219214.8572,
+   "mexc": null,
+   "spot": "PENDLEUSD.A"
+  },
+  {
+   "symbol": "MONUSDT.6",
+   "base": "MON",
+   "denom": "BASE_ASSET",
+   "ticker": "MONUSDT",
+   "has_ls": true,
+   "oi_usd": 7044911.19036,
+   "mexc": null,
+   "spot": "sMONUSDT.6"
+  },
+  {
+   "symbol": "SPXUSDT.6",
+   "base": "SPX",
+   "denom": "BASE_ASSET",
+   "ticker": "SPXUSDT",
+   "has_ls": true,
+   "oi_usd": 6955914.1680000005,
+   "mexc": null,
+   "spot": "sSPXUSDT.6"
+  },
+  {
+   "symbol": "JUPUSDT.6",
+   "base": "JUP",
+   "denom": "BASE_ASSET",
+   "ticker": "JUPUSDT",
+   "has_ls": true,
+   "oi_usd": 6478841.024800001,
+   "mexc": null,
+   "spot": "JUPUSD.A"
+  },
+  {
+   "symbol": "ALGOUSDT.6",
+   "base": "ALGO",
+   "denom": "BASE_ASSET",
+   "ticker": "ALGOUSDT",
+   "has_ls": true,
+   "oi_usd": 6432448.202482001,
+   "mexc": null,
+   "spot": "ALGOUSD.A"
+  },
+  {
+   "symbol": "BLESSUSDT.6",
+   "base": "BLESS",
+   "denom": "BASE_ASSET",
+   "ticker": "BLESSUSDT",
+   "has_ls": true,
+   "oi_usd": 6315588.7122,
+   "mexc": null,
+   "spot": "BLESSUSD.K"
   },
   {
    "symbol": "WIFUSDT.6",
@@ -726,9 +746,19 @@
    "denom": "BASE_ASSET",
    "ticker": "WIFUSDT",
    "has_ls": true,
-   "oi_usd": 6214215.5236,
+   "oi_usd": 6214445.332199999,
    "mexc": null,
    "spot": "WIFUSD.A"
+  },
+  {
+   "symbol": "METAUSDT.6",
+   "base": "META",
+   "denom": "BASE_ASSET",
+   "ticker": "METAUSDT",
+   "has_ls": true,
+   "oi_usd": 6056888.0708,
+   "mexc": null,
+   "spot": null
   },
   {
    "symbol": "USELESSUSDT.6",
@@ -736,7 +766,7 @@
    "denom": "BASE_ASSET",
    "ticker": "USELESSUSDT",
    "has_ls": true,
-   "oi_usd": 6209386.92,
+   "oi_usd": 6000646.159200001,
    "mexc": null,
    "spot": "USELESSUSD.C"
   },
@@ -746,7 +776,7 @@
    "denom": "BASE_ASSET",
    "ticker": "OPUSDT",
    "has_ls": true,
-   "oi_usd": 6127589.98455,
+   "oi_usd": 5928993.5993099995,
    "mexc": null,
    "spot": "OPUSD.A"
   },
@@ -756,29 +786,19 @@
    "denom": "BASE_ASSET",
    "ticker": "ARXUSDT",
    "has_ls": true,
-   "oi_usd": 5831453.2343999995,
+   "oi_usd": 5853670.152,
    "mexc": null,
    "spot": "sARXUSDT.6"
   },
   {
-   "symbol": "JUPUSDT.6",
-   "base": "JUP",
+   "symbol": "PONSUSDT.6",
+   "base": "PONS",
    "denom": "BASE_ASSET",
-   "ticker": "JUPUSDT",
+   "ticker": "PONSUSDT",
    "has_ls": true,
-   "oi_usd": 5826737.3733,
+   "oi_usd": 5800320.47,
    "mexc": null,
-   "spot": "JUPUSD.A"
-  },
-  {
-   "symbol": "RENDERUSDT.6",
-   "base": "RENDER",
-   "denom": "BASE_ASSET",
-   "ticker": "RENDERUSDT",
-   "has_ls": true,
-   "oi_usd": 5505301.7064,
-   "mexc": null,
-   "spot": "RENDERUSD.A"
+   "spot": "sPONSUSDT.6"
   },
   {
    "symbol": "ETCUSDT.6",
@@ -786,99 +806,19 @@
    "denom": "BASE_ASSET",
    "ticker": "ETCUSDT",
    "has_ls": true,
-   "oi_usd": 5367033.519200001,
+   "oi_usd": 5446323.584,
    "mexc": null,
    "spot": "ETCUSD.A"
   },
   {
-   "symbol": "ALGOUSDT.6",
-   "base": "ALGO",
+   "symbol": "ELSAUSDT.6",
+   "base": "ELSA",
    "denom": "BASE_ASSET",
-   "ticker": "ALGOUSDT",
+   "ticker": "ELSAUSDT",
    "has_ls": true,
-   "oi_usd": 5321298.189384,
+   "oi_usd": 5426843.9127,
    "mexc": null,
-   "spot": "ALGOUSD.A"
-  },
-  {
-   "symbol": "TIAUSDT.6",
-   "base": "TIA",
-   "denom": "BASE_ASSET",
-   "ticker": "TIAUSDT",
-   "has_ls": true,
-   "oi_usd": 5282874.27536,
-   "mexc": null,
-   "spot": "TIAUSD.A"
-  },
-  {
-   "symbol": "METAUSDT.6",
-   "base": "META",
-   "denom": "BASE_ASSET",
-   "ticker": "METAUSDT",
-   "has_ls": true,
-   "oi_usd": 5261142.383200001,
-   "mexc": null,
-   "spot": null
-  },
-  {
-   "symbol": "TQQQUSDT.6",
-   "base": "TQQQ",
-   "denom": "BASE_ASSET",
-   "ticker": "TQQQUSDT",
-   "has_ls": true,
-   "oi_usd": 5205731.6288,
-   "mexc": null,
-   "spot": "TQQQUSD.P"
-  },
-  {
-   "symbol": "ICNTUSDT.6",
-   "base": "ICNT",
-   "denom": "BASE_ASSET",
-   "ticker": "ICNTUSDT",
-   "has_ls": true,
-   "oi_usd": 5126809.304400001,
-   "mexc": null,
-   "spot": "sICNTUSDT.6"
-  },
-  {
-   "symbol": "STXUSDT.6",
-   "base": "STX",
-   "denom": "BASE_ASSET",
-   "ticker": "STXUSDT",
-   "has_ls": true,
-   "oi_usd": 5027350.613879999,
-   "mexc": null,
-   "spot": "STXUSD.A"
-  },
-  {
-   "symbol": "AKEUSDT.6",
-   "base": "AKE",
-   "denom": "BASE_ASSET",
-   "ticker": "AKEUSDT",
-   "has_ls": true,
-   "oi_usd": 4889877.419,
-   "mexc": null,
-   "spot": "AKEUSD.K"
-  },
-  {
-   "symbol": "JCTUSDT.6",
-   "base": "JCT",
-   "denom": "BASE_ASSET",
-   "ticker": "JCTUSDT",
-   "has_ls": true,
-   "oi_usd": 4728698.24,
-   "mexc": null,
-   "spot": null
-  },
-  {
-   "symbol": "MMTUSDT.6",
-   "base": "MMT",
-   "denom": "BASE_ASSET",
-   "ticker": "MMTUSDT",
-   "has_ls": true,
-   "oi_usd": 4654996.2996000005,
-   "mexc": null,
-   "spot": "MMTUSD.A"
+   "spot": "sELSAUSDT.6"
   },
   {
    "symbol": "KASUSDT.6",
@@ -886,119 +826,59 @@
    "denom": "BASE_ASSET",
    "ticker": "KASUSDT",
    "has_ls": true,
-   "oi_usd": 4550079.5946,
+   "oi_usd": 5329096.3488,
    "mexc": null,
    "spot": "sKASUSDT.6"
   },
   {
-   "symbol": "MORPHOUSDT.6",
-   "base": "MORPHO",
+   "symbol": "TIAUSDT.6",
+   "base": "TIA",
    "denom": "BASE_ASSET",
-   "ticker": "MORPHOUSDT",
+   "ticker": "TIAUSDT",
    "has_ls": true,
-   "oi_usd": 4542185.3624,
+   "oi_usd": 5155151.81412,
    "mexc": null,
-   "spot": "MORPHOUSD.A"
+   "spot": "TIAUSD.A"
   },
   {
-   "symbol": "SEIUSDT.6",
-   "base": "SEI",
+   "symbol": "RENDERUSDT.6",
+   "base": "RENDER",
    "denom": "BASE_ASSET",
-   "ticker": "SEIUSDT",
+   "ticker": "RENDERUSDT",
    "has_ls": true,
-   "oi_usd": 4513418.0128,
+   "oi_usd": 5017049.3100000005,
    "mexc": null,
-   "spot": "SEIUSD.A"
+   "spot": "RENDERUSD.A"
   },
   {
-   "symbol": "VIRTUALUSDT.6",
-   "base": "VIRTUAL",
+   "symbol": "AKEUSDT.6",
+   "base": "AKE",
    "denom": "BASE_ASSET",
-   "ticker": "VIRTUALUSDT",
+   "ticker": "AKEUSDT",
    "has_ls": true,
-   "oi_usd": 4504112.676,
+   "oi_usd": 5015382.259500001,
    "mexc": null,
-   "spot": "VIRTUALUSD.A"
+   "spot": "AKEUSD.K"
   },
   {
-   "symbol": "PYTHUSDT.6",
-   "base": "PYTH",
+   "symbol": "STXUSDT.6",
+   "base": "STX",
    "denom": "BASE_ASSET",
-   "ticker": "PYTHUSDT",
+   "ticker": "STXUSDT",
    "has_ls": true,
-   "oi_usd": 4425866.85816,
+   "oi_usd": 4999883.4518,
    "mexc": null,
-   "spot": "PYTHUSD.A"
+   "spot": "STXUSD.A"
   },
   {
-   "symbol": "SOONUSDT.6",
-   "base": "SOON",
+   "symbol": "MMTUSDT.6",
+   "base": "MMT",
    "denom": "BASE_ASSET",
-   "ticker": "SOONUSDT",
+   "ticker": "MMTUSDT",
    "has_ls": true,
-   "oi_usd": 4350614.7587,
+   "oi_usd": 4807466.3717,
    "mexc": null,
-   "spot": "SOONUSD.K"
-  },
-  {
-   "symbol": "SHIB1000USDT.6",
-   "base": "1000SHIB",
-   "denom": "BASE_ASSET",
-   "ticker": "SHIB1000USDT",
-   "has_ls": true,
-   "oi_usd": 4227628.31094,
-   "mexc": null,
-   "spot": null
-  },
-  {
-   "symbol": "BARDUSDT.6",
-   "base": "BARD",
-   "denom": "BASE_ASSET",
-   "ticker": "BARDUSDT",
-   "has_ls": true,
-   "oi_usd": 4215919.947522,
-   "mexc": null,
-   "spot": "BARDUSD.A"
-  },
-  {
-   "symbol": "COMPUSDT.6",
-   "base": "COMP",
-   "denom": "BASE_ASSET",
-   "ticker": "COMPUSDT",
-   "has_ls": true,
-   "oi_usd": 4185263.3619999997,
-   "mexc": null,
-   "spot": "COMPUSD.A"
-  },
-  {
-   "symbol": "1000BONKUSDT.6",
-   "base": "1000BONK",
-   "denom": "BASE_ASSET",
-   "ticker": "1000BONKUSDT",
-   "has_ls": true,
-   "oi_usd": 4171461.0678,
-   "mexc": null,
-   "spot": "s1000BONKUSDT.7"
-  },
-  {
-   "symbol": "BEAMUSDT.6",
-   "base": "BEAM",
-   "denom": "BASE_ASSET",
-   "ticker": "BEAMUSDT",
-   "has_ls": true,
-   "oi_usd": 4001718.5951,
-   "mexc": null,
-   "spot": "BEAMUSD.A"
-  },
-  {
-   "symbol": "DASHUSDT.6",
-   "base": "DASH",
-   "denom": "BASE_ASSET",
-   "ticker": "DASHUSDT",
-   "has_ls": true,
-   "oi_usd": 3950135.028,
-   "mexc": null,
-   "spot": "DASHUSD.A"
+   "spot": "MMTUSD.A"
   },
   {
    "symbol": "INITUSDT.6",
@@ -1006,17 +886,27 @@
    "denom": "BASE_ASSET",
    "ticker": "INITUSDT",
    "has_ls": true,
-   "oi_usd": 3909547.39864,
+   "oi_usd": 4757498.05524,
    "mexc": null,
    "spot": "INITUSD.A"
   },
   {
-   "symbol": "COINUSDT.6",
-   "base": "COIN",
+   "symbol": "TQQQUSDT.6",
+   "base": "TQQQ",
    "denom": "BASE_ASSET",
-   "ticker": "COINUSDT",
+   "ticker": "TQQQUSDT",
    "has_ls": true,
-   "oi_usd": 3812743.8179999995,
+   "oi_usd": 4628180.895,
+   "mexc": null,
+   "spot": "TQQQUSD.P"
+  },
+  {
+   "symbol": "JCTUSDT.6",
+   "base": "JCT",
+   "denom": "BASE_ASSET",
+   "ticker": "JCTUSDT",
+   "has_ls": true,
+   "oi_usd": 4612276.9372,
    "mexc": null,
    "spot": null
   },
@@ -1026,49 +916,159 @@
    "denom": "BASE_ASSET",
    "ticker": "BTWUSDT",
    "has_ls": true,
-   "oi_usd": 3761077.1879999996,
+   "oi_usd": 4604173.92,
    "mexc": null,
    "spot": "BTWUSD.P"
   },
   {
-   "symbol": "TRBUSDT.6",
-   "base": "TRB",
+   "symbol": "1000BONKUSDT.6",
+   "base": "1000BONK",
    "denom": "BASE_ASSET",
-   "ticker": "TRBUSDT",
+   "ticker": "1000BONKUSDT",
    "has_ls": true,
-   "oi_usd": 3639105.015,
+   "oi_usd": 4573637.3548,
    "mexc": null,
-   "spot": "TRBUSD.A"
+   "spot": "s1000BONKUSDT.7"
   },
   {
-   "symbol": "CASHCATUSDT.6",
-   "base": "CASHCAT",
+   "symbol": "SEIUSDT.6",
+   "base": "SEI",
    "denom": "BASE_ASSET",
-   "ticker": "CASHCATUSDT",
+   "ticker": "SEIUSDT",
    "has_ls": true,
-   "oi_usd": 3608672.6291,
+   "oi_usd": 4516729.71832,
    "mexc": null,
-   "spot": "CASHCATUSD.P"
+   "spot": "SEIUSD.A"
   },
   {
-   "symbol": "ZEREBROUSDT.6",
-   "base": "ZEREBRO",
+   "symbol": "ICNTUSDT.6",
+   "base": "ICNT",
    "denom": "BASE_ASSET",
-   "ticker": "ZEREBROUSDT",
+   "ticker": "ICNTUSDT",
    "has_ls": true,
-   "oi_usd": 3471519.28529,
+   "oi_usd": 4460794.799400001,
    "mexc": null,
-   "spot": "sZEREBROUSDT.6"
+   "spot": "sICNTUSDT.6"
   },
   {
-   "symbol": "IRYSUSDT.6",
-   "base": "IRYS",
+   "symbol": "MORPHOUSDT.6",
+   "base": "MORPHO",
    "denom": "BASE_ASSET",
-   "ticker": "IRYSUSDT",
+   "ticker": "MORPHOUSDT",
    "has_ls": true,
-   "oi_usd": 3459292.98668,
+   "oi_usd": 4401223.164,
    "mexc": null,
-   "spot": "IRYSUSD.C"
+   "spot": "MORPHOUSD.A"
+  },
+  {
+   "symbol": "VIRTUALUSDT.6",
+   "base": "VIRTUAL",
+   "denom": "BASE_ASSET",
+   "ticker": "VIRTUALUSDT",
+   "has_ls": true,
+   "oi_usd": 4362374.35,
+   "mexc": null,
+   "spot": "VIRTUALUSD.A"
+  },
+  {
+   "symbol": "SOONUSDT.6",
+   "base": "SOON",
+   "denom": "BASE_ASSET",
+   "ticker": "SOONUSDT",
+   "has_ls": true,
+   "oi_usd": 4196025.792,
+   "mexc": null,
+   "spot": "SOONUSD.K"
+  },
+  {
+   "symbol": "COMPUSDT.6",
+   "base": "COMP",
+   "denom": "BASE_ASSET",
+   "ticker": "COMPUSDT",
+   "has_ls": true,
+   "oi_usd": 4188791.5200000005,
+   "mexc": null,
+   "spot": "COMPUSD.A"
+  },
+  {
+   "symbol": "SHIB1000USDT.6",
+   "base": "1000SHIB",
+   "denom": "BASE_ASSET",
+   "ticker": "SHIB1000USDT",
+   "has_ls": true,
+   "oi_usd": 4056177.37252,
+   "mexc": null,
+   "spot": null
+  },
+  {
+   "symbol": "PYTHUSDT.6",
+   "base": "PYTH",
+   "denom": "BASE_ASSET",
+   "ticker": "PYTHUSDT",
+   "has_ls": true,
+   "oi_usd": 4055778.91305,
+   "mexc": null,
+   "spot": "PYTHUSD.A"
+  },
+  {
+   "symbol": "BARDUSDT.6",
+   "base": "BARD",
+   "denom": "BASE_ASSET",
+   "ticker": "BARDUSDT",
+   "has_ls": true,
+   "oi_usd": 3914596.1441320004,
+   "mexc": null,
+   "spot": "BARDUSD.A"
+  },
+  {
+   "symbol": "DASHUSDT.6",
+   "base": "DASH",
+   "denom": "BASE_ASSET",
+   "ticker": "DASHUSDT",
+   "has_ls": true,
+   "oi_usd": 3904078.7676,
+   "mexc": null,
+   "spot": "DASHUSD.A"
+  },
+  {
+   "symbol": "COINUSDT.6",
+   "base": "COIN",
+   "denom": "BASE_ASSET",
+   "ticker": "COINUSDT",
+   "has_ls": true,
+   "oi_usd": 3888179.8272,
+   "mexc": null,
+   "spot": null
+  },
+  {
+   "symbol": "BEAMUSDT.6",
+   "base": "BEAM",
+   "denom": "BASE_ASSET",
+   "ticker": "BEAMUSDT",
+   "has_ls": true,
+   "oi_usd": 3850498.18032,
+   "mexc": null,
+   "spot": "BEAMUSD.A"
+  },
+  {
+   "symbol": "TAUSDT.6",
+   "base": "TA",
+   "denom": "BASE_ASSET",
+   "ticker": "TAUSDT",
+   "has_ls": true,
+   "oi_usd": 3801664.812,
+   "mexc": null,
+   "spot": "sTAUSDT.6"
+  },
+  {
+   "symbol": "HUSDT.6",
+   "base": "H",
+   "denom": "BASE_ASSET",
+   "ticker": "HUSDT",
+   "has_ls": true,
+   "oi_usd": 3738281.6733999997,
+   "mexc": null,
+   "spot": "sHUSDT.6"
   }
  ],
  "pool": [
@@ -1078,7 +1078,7 @@
    "denom": "BASE_ASSET",
    "ticker": "SOLUSDT",
    "has_ls": true,
-   "oi_usd": 399692717.496,
+   "oi_usd": 402275079.552,
    "mexc": null,
    "spot": "SOLUSD.A"
   },
@@ -1088,7 +1088,7 @@
    "denom": "BASE_ASSET",
    "ticker": "HYPEUSDT",
    "has_ls": true,
-   "oi_usd": 202388489.70900002,
+   "oi_usd": 189831815.1009,
    "mexc": null,
    "spot": "HYPEUSD.A"
   },
@@ -1098,7 +1098,7 @@
    "denom": "BASE_ASSET",
    "ticker": "XRPUSDT",
    "has_ls": true,
-   "oi_usd": 178778768.40688002,
+   "oi_usd": 188546453.48997,
    "mexc": null,
    "spot": "XRPUSD.A"
   },
@@ -1108,7 +1108,7 @@
    "denom": "BASE_ASSET",
    "ticker": "ZECUSDT",
    "has_ls": true,
-   "oi_usd": 130227675.40439999,
+   "oi_usd": 122431889.21280001,
    "mexc": null,
    "spot": "ZECUSD.A"
   },
@@ -1118,7 +1118,7 @@
    "denom": "BASE_ASSET",
    "ticker": "NEARUSDT",
    "has_ls": true,
-   "oi_usd": 96320945.396,
+   "oi_usd": 97170454.5084,
    "mexc": null,
    "spot": "NEARUSD.A"
   },
@@ -1128,7 +1128,7 @@
    "denom": "BASE_ASSET",
    "ticker": "DOGEUSDT",
    "has_ls": true,
-   "oi_usd": 78204549.52884,
+   "oi_usd": 87827315.23538001,
    "mexc": null,
    "spot": "DOGEUSD.A"
   },
@@ -1138,7 +1138,7 @@
    "denom": "BASE_ASSET",
    "ticker": "BNBUSDT",
    "has_ls": true,
-   "oi_usd": 71182649.8968,
+   "oi_usd": 69504144.829,
    "mexc": null,
    "spot": "BNBUSD.A"
   },
@@ -1148,19 +1148,9 @@
    "denom": "BASE_ASSET",
    "ticker": "TRXUSDT",
    "has_ls": true,
-   "oi_usd": 58739681.04760001,
+   "oi_usd": 58201006.692600004,
    "mexc": null,
    "spot": "TRXUSD.A"
-  },
-  {
-   "symbol": "ANTUSDT.6",
-   "base": "ANT",
-   "denom": "BASE_ASSET",
-   "ticker": "ANTUSDT",
-   "has_ls": true,
-   "oi_usd": 51072418.8485,
-   "mexc": null,
-   "spot": null
   },
   {
    "symbol": "SUIUSDT.6",
@@ -1168,9 +1158,19 @@
    "denom": "BASE_ASSET",
    "ticker": "SUIUSDT",
    "has_ls": true,
-   "oi_usd": 49129215.155999996,
+   "oi_usd": 53249489.48,
    "mexc": null,
    "spot": "SUIUSD.A"
+  },
+  {
+   "symbol": "ANTUSDT.6",
+   "base": "ANT",
+   "denom": "BASE_ASSET",
+   "ticker": "ANTUSDT",
+   "has_ls": true,
+   "oi_usd": 50885000.50256,
+   "mexc": null,
+   "spot": null
   },
   {
    "symbol": "LTCUSDT.6",
@@ -1178,7 +1178,7 @@
    "denom": "BASE_ASSET",
    "ticker": "LTCUSDT",
    "has_ls": true,
-   "oi_usd": 43770244.14,
+   "oi_usd": 44267659.85700001,
    "mexc": null,
    "spot": "LTCUSD.A"
   },
@@ -1188,7 +1188,7 @@
    "denom": "BASE_ASSET",
    "ticker": "LINKUSDT",
    "has_ls": true,
-   "oi_usd": 41583819.2,
+   "oi_usd": 41185144.477199994,
    "mexc": null,
    "spot": "LINKUSDT.A"
   },
@@ -1198,7 +1198,7 @@
    "denom": "BASE_ASSET",
    "ticker": "AVAXUSDT",
    "has_ls": true,
-   "oi_usd": 38004505.78080001,
+   "oi_usd": 38635662.7904,
    "mexc": null,
    "spot": "AVAXUSD.A"
   },
@@ -1208,19 +1208,9 @@
    "denom": "BASE_ASSET",
    "ticker": "ADAUSDT",
    "has_ls": true,
-   "oi_usd": 37316406.7948,
+   "oi_usd": 37887069.2688,
    "mexc": null,
    "spot": "ADAUSD.A"
-  },
-  {
-   "symbol": "AAVEUSDT.6",
-   "base": "AAVE",
-   "denom": "BASE_ASSET",
-   "ticker": "AAVEUSDT",
-   "has_ls": true,
-   "oi_usd": 35653546.9737,
-   "mexc": null,
-   "spot": "AAVEUSD.A"
   },
   {
    "symbol": "ENAUSDT.6",
@@ -1228,19 +1218,9 @@
    "denom": "BASE_ASSET",
    "ticker": "ENAUSDT",
    "has_ls": true,
-   "oi_usd": 35434356.80796,
+   "oi_usd": 34777926.454339996,
    "mexc": null,
    "spot": "ENAUSD.A"
-  },
-  {
-   "symbol": "VVVUSDT.6",
-   "base": "VVV",
-   "denom": "BASE_ASSET",
-   "ticker": "VVVUSDT",
-   "has_ls": true,
-   "oi_usd": 34546590.34452,
-   "mexc": null,
-   "spot": "sVVVUSDT.6"
   },
   {
    "symbol": "1000PEPEUSDT.6",
@@ -1248,9 +1228,29 @@
    "denom": "BASE_ASSET",
    "ticker": "1000PEPEUSDT",
    "has_ls": true,
-   "oi_usd": 34346710.7742,
+   "oi_usd": 33728492.28,
    "mexc": null,
    "spot": null
+  },
+  {
+   "symbol": "VVVUSDT.6",
+   "base": "VVV",
+   "denom": "BASE_ASSET",
+   "ticker": "VVVUSDT",
+   "has_ls": true,
+   "oi_usd": 33043255.695449997,
+   "mexc": null,
+   "spot": "sVVVUSDT.6"
+  },
+  {
+   "symbol": "AAVEUSDT.6",
+   "base": "AAVE",
+   "denom": "BASE_ASSET",
+   "ticker": "AAVEUSDT",
+   "has_ls": true,
+   "oi_usd": 32799574.2492,
+   "mexc": null,
+   "spot": "AAVEUSD.A"
   },
   {
    "symbol": "WLDUSDT.6",
@@ -1258,7 +1258,7 @@
    "denom": "BASE_ASSET",
    "ticker": "WLDUSDT",
    "has_ls": true,
-   "oi_usd": 31998715.212120004,
+   "oi_usd": 31149901.7931,
    "mexc": null,
    "spot": "WLDUSD.A"
   },
@@ -1268,7 +1268,7 @@
    "denom": "BASE_ASSET",
    "ticker": "LITUSDT",
    "has_ls": true,
-   "oi_usd": 30325029.385080002,
+   "oi_usd": 31120215.70221,
    "mexc": null,
    "spot": "sLITUSDT.6"
   },
@@ -1278,7 +1278,7 @@
    "denom": "BASE_ASSET",
    "ticker": "ASTERUSDT",
    "has_ls": true,
-   "oi_usd": 29733735.4572,
+   "oi_usd": 29976583.6392,
    "mexc": null,
    "spot": "ASTERUSD.A"
   },
@@ -1288,7 +1288,7 @@
    "denom": "BASE_ASSET",
    "ticker": "XMRUSDT",
    "has_ls": true,
-   "oi_usd": 28008849.792,
+   "oi_usd": 28678682.035899997,
    "mexc": null,
    "spot": "XMRUSDT.K"
   },
@@ -1298,7 +1298,7 @@
    "denom": "BASE_ASSET",
    "ticker": "MNTUSDT",
    "has_ls": true,
-   "oi_usd": 27324259.18184,
+   "oi_usd": 28526744.003990002,
    "mexc": null,
    "spot": "sMNTUSDT.6"
   },
@@ -1308,7 +1308,7 @@
    "denom": "BASE_ASSET",
    "ticker": "UNIUSDT",
    "has_ls": true,
-   "oi_usd": 27057231.101999998,
+   "oi_usd": 26455937.427,
    "mexc": null,
    "spot": "UNIUSD.A"
   },
@@ -1318,7 +1318,7 @@
    "denom": "BASE_ASSET",
    "ticker": "ONDOUSDT",
    "has_ls": true,
-   "oi_usd": 25912738.3588,
+   "oi_usd": 25940958.6288,
    "mexc": null,
    "spot": "ONDOUSD.A"
   },
@@ -1328,19 +1328,9 @@
    "denom": "BASE_ASSET",
    "ticker": "TAOUSDT",
    "has_ls": true,
-   "oi_usd": 24922295.05122,
+   "oi_usd": 25501595.6461,
    "mexc": null,
    "spot": "TAOUSD.A"
-  },
-  {
-   "symbol": "PUMPFUNUSDT.6",
-   "base": "PUMP",
-   "denom": "BASE_ASSET",
-   "ticker": "PUMPFUNUSDT",
-   "has_ls": true,
-   "oi_usd": 21683230.208,
-   "mexc": null,
-   "spot": "PUMPUSD.A"
   },
   {
    "symbol": "BCHUSDT.6",
@@ -1348,19 +1338,19 @@
    "denom": "BASE_ASSET",
    "ticker": "BCHUSDT",
    "has_ls": true,
-   "oi_usd": 21654927.3768,
+   "oi_usd": 22607740.4042,
    "mexc": null,
    "spot": "BCHUSD.A"
   },
   {
-   "symbol": "PIEVERSEUSDT.6",
-   "base": "PIEVERSE",
+   "symbol": "PUMPFUNUSDT.6",
+   "base": "PUMP",
    "denom": "BASE_ASSET",
-   "ticker": "PIEVERSEUSDT",
+   "ticker": "PUMPFUNUSDT",
    "has_ls": true,
-   "oi_usd": 21123072.8415,
+   "oi_usd": 20713384.8672,
    "mexc": null,
-   "spot": "sPIEVERSEUSDT.6"
+   "spot": "PUMPUSD.A"
   },
   {
    "symbol": "XLMUSDT.6",
@@ -1368,7 +1358,7 @@
    "denom": "BASE_ASSET",
    "ticker": "XLMUSDT",
    "has_ls": true,
-   "oi_usd": 19861700.739,
+   "oi_usd": 19538649.747,
    "mexc": null,
    "spot": "XLMUSD.A"
   },
@@ -1378,19 +1368,9 @@
    "denom": "BASE_ASSET",
    "ticker": "ZROUSDT",
    "has_ls": true,
-   "oi_usd": 19145342.43648,
+   "oi_usd": 19369031.4378,
    "mexc": null,
    "spot": "ZROUSD.A"
-  },
-  {
-   "symbol": "WLFIUSDT.6",
-   "base": "WLFI",
-   "denom": "BASE_ASSET",
-   "ticker": "WLFIUSDT",
-   "has_ls": true,
-   "oi_usd": 18915681.4506,
-   "mexc": null,
-   "spot": "WLFIUSD.A"
   },
   {
    "symbol": "GRAMUSDT.6",
@@ -1398,39 +1378,29 @@
    "denom": "BASE_ASSET",
    "ticker": "GRAMUSDT",
    "has_ls": true,
-   "oi_usd": 18836634.8544,
+   "oi_usd": 19182321.9364,
    "mexc": null,
    "spot": "GRAMUSD.A"
   },
   {
-   "symbol": "GRASSUSDT.6",
-   "base": "GRASS",
+   "symbol": "PIEVERSEUSDT.6",
+   "base": "PIEVERSE",
    "denom": "BASE_ASSET",
-   "ticker": "GRASSUSDT",
+   "ticker": "PIEVERSEUSDT",
    "has_ls": true,
-   "oi_usd": 17020121.535,
+   "oi_usd": 19064198.1855,
    "mexc": null,
-   "spot": "sGRASSUSDT.6"
+   "spot": "sPIEVERSEUSDT.6"
   },
   {
-   "symbol": "TRUMPUSDT.6",
-   "base": "TRUMP",
+   "symbol": "WLFIUSDT.6",
+   "base": "WLFI",
    "denom": "BASE_ASSET",
-   "ticker": "TRUMPUSDT",
+   "ticker": "WLFIUSDT",
    "has_ls": true,
-   "oi_usd": 17011605.8858,
+   "oi_usd": 18928967.43332,
    "mexc": null,
-   "spot": "TRUMPUSD.A"
-  },
-  {
-   "symbol": "HBARUSDT.6",
-   "base": "HBAR",
-   "denom": "BASE_ASSET",
-   "ticker": "HBARUSDT",
-   "has_ls": true,
-   "oi_usd": 15967633.38448,
-   "mexc": null,
-   "spot": "HBARUSD.A"
+   "spot": "WLFIUSD.A"
   },
   {
    "symbol": "XPLUSDT.6",
@@ -1438,19 +1408,39 @@
    "denom": "BASE_ASSET",
    "ticker": "XPLUSDT",
    "has_ls": true,
-   "oi_usd": 15867928.7312,
+   "oi_usd": 17942908.92955,
    "mexc": null,
    "spot": "XPLUSD.A"
   },
   {
-   "symbol": "ARBUSDT.6",
-   "base": "ARB",
+   "symbol": "TRUMPUSDT.6",
+   "base": "TRUMP",
    "denom": "BASE_ASSET",
-   "ticker": "ARBUSDT",
+   "ticker": "TRUMPUSDT",
    "has_ls": true,
-   "oi_usd": 14719780.445183998,
+   "oi_usd": 17195963.274,
    "mexc": null,
-   "spot": "ARB_USD.A"
+   "spot": "TRUMPUSD.A"
+  },
+  {
+   "symbol": "GRASSUSDT.6",
+   "base": "GRASS",
+   "denom": "BASE_ASSET",
+   "ticker": "GRASSUSDT",
+   "has_ls": true,
+   "oi_usd": 16574783.302000001,
+   "mexc": null,
+   "spot": "sGRASSUSDT.6"
+  },
+  {
+   "symbol": "HBARUSDT.6",
+   "base": "HBAR",
+   "denom": "BASE_ASSET",
+   "ticker": "HBARUSDT",
+   "has_ls": true,
+   "oi_usd": 15978744.779480001,
+   "mexc": null,
+   "spot": "HBARUSD.A"
   },
   {
    "symbol": "DOTUSDT.6",
@@ -1458,9 +1448,19 @@
    "denom": "BASE_ASSET",
    "ticker": "DOTUSDT",
    "has_ls": true,
-   "oi_usd": 14409289.28553,
+   "oi_usd": 15129566.84844,
    "mexc": null,
    "spot": "DOTUSD.A"
+  },
+  {
+   "symbol": "ARBUSDT.6",
+   "base": "ARB",
+   "denom": "BASE_ASSET",
+   "ticker": "ARBUSDT",
+   "has_ls": true,
+   "oi_usd": 14143013.08863,
+   "mexc": null,
+   "spot": "ARB_USD.A"
   },
   {
    "symbol": "INJUSDT.6",
@@ -1468,19 +1468,19 @@
    "denom": "BASE_ASSET",
    "ticker": "INJUSDT",
    "has_ls": true,
-   "oi_usd": 12641124.08,
+   "oi_usd": 12321473.634,
    "mexc": null,
    "spot": "INJUSD.A"
   },
   {
-   "symbol": "ETHFIUSDT.6",
-   "base": "ETHFI",
+   "symbol": "ARIAUSDT.6",
+   "base": "ARIA",
    "denom": "BASE_ASSET",
-   "ticker": "ETHFIUSDT",
+   "ticker": "ARIAUSDT",
    "has_ls": true,
-   "oi_usd": 10978497.7191,
+   "oi_usd": 10932672.45402,
    "mexc": null,
-   "spot": "ETHFIUSD.A"
+   "spot": null
   },
   {
    "symbol": "CCUSDT.6",
@@ -1488,9 +1488,19 @@
    "denom": "BASE_ASSET",
    "ticker": "CCUSDT",
    "has_ls": true,
-   "oi_usd": 10813437.76296,
+   "oi_usd": 10808121.827580001,
    "mexc": null,
    "spot": "sCCUSDT.6"
+  },
+  {
+   "symbol": "ETHFIUSDT.6",
+   "base": "ETHFI",
+   "denom": "BASE_ASSET",
+   "ticker": "ETHFIUSDT",
+   "has_ls": true,
+   "oi_usd": 10408579.74128,
+   "mexc": null,
+   "spot": "ETHFIUSD.A"
   },
   {
    "symbol": "AEROUSDT.6",
@@ -1498,29 +1508,19 @@
    "denom": "BASE_ASSET",
    "ticker": "AEROUSDT",
    "has_ls": true,
-   "oi_usd": 10606917.667,
+   "oi_usd": 10123567.7574,
    "mexc": null,
    "spot": "AEROUSD.A"
   },
   {
-   "symbol": "APTUSDT.6",
-   "base": "APT",
+   "symbol": "QNTUSDT.6",
+   "base": "QNT",
    "denom": "BASE_ASSET",
-   "ticker": "APTUSDT",
+   "ticker": "QNTUSDT",
    "has_ls": true,
-   "oi_usd": 10548750.972911999,
+   "oi_usd": 10010079.8628,
    "mexc": null,
-   "spot": "APTUSD.A"
-  },
-  {
-   "symbol": "SOXSUSDT.6",
-   "base": "SOXS",
-   "denom": "BASE_ASSET",
-   "ticker": "SOXSUSDT",
-   "has_ls": true,
-   "oi_usd": 10384049.832999999,
-   "mexc": null,
-   "spot": "SOXSUSD.P"
+   "spot": "QNTUSD.A"
   },
   {
    "symbol": "FFUSDT.6",
@@ -1528,29 +1528,19 @@
    "denom": "BASE_ASSET",
    "ticker": "FFUSDT",
    "has_ls": true,
-   "oi_usd": 10103749.18144,
+   "oi_usd": 9996444.72528,
    "mexc": null,
    "spot": "FFUSD.A"
   },
   {
-   "symbol": "STRKUSDT.6",
-   "base": "STRK",
+   "symbol": "APTUSDT.6",
+   "base": "APT",
    "denom": "BASE_ASSET",
-   "ticker": "STRKUSDT",
+   "ticker": "APTUSDT",
    "has_ls": true,
-   "oi_usd": 9760625.099424,
+   "oi_usd": 9899042.52946,
    "mexc": null,
-   "spot": "STRKUSD.A"
-  },
-  {
-   "symbol": "CRVUSDT.6",
-   "base": "CRV",
-   "denom": "BASE_ASSET",
-   "ticker": "CRVUSDT",
-   "has_ls": true,
-   "oi_usd": 9737608.60478,
-   "mexc": null,
-   "spot": "CRVUSD.A"
+   "spot": "APTUSD.A"
   },
   {
    "symbol": "ATOMUSDT.6",
@@ -1558,9 +1548,19 @@
    "denom": "BASE_ASSET",
    "ticker": "ATOMUSDT",
    "has_ls": true,
-   "oi_usd": 9512721.4512,
+   "oi_usd": 9871527.75,
    "mexc": null,
    "spot": "ATOMUSD.A"
+  },
+  {
+   "symbol": "STRKUSDT.6",
+   "base": "STRK",
+   "denom": "BASE_ASSET",
+   "ticker": "STRKUSDT",
+   "has_ls": true,
+   "oi_usd": 9722551.94001,
+   "mexc": null,
+   "spot": "STRKUSD.A"
   },
   {
    "symbol": "POLUSDT.6",
@@ -1568,7 +1568,7 @@
    "denom": "BASE_ASSET",
    "ticker": "POLUSDT",
    "has_ls": true,
-   "oi_usd": 9321405.53968,
+   "oi_usd": 9482784.57448,
    "mexc": null,
    "spot": "POLUSD.A"
   },
@@ -1578,19 +1578,9 @@
    "denom": "BASE_ASSET",
    "ticker": "ICPUSDT",
    "has_ls": true,
-   "oi_usd": 9307503.5272,
+   "oi_usd": 9369618.070700001,
    "mexc": null,
    "spot": "ICPUSD.A"
-  },
-  {
-   "symbol": "QNTUSDT.6",
-   "base": "QNT",
-   "denom": "BASE_ASSET",
-   "ticker": "QNTUSDT",
-   "has_ls": true,
-   "oi_usd": 8895237.6758,
-   "mexc": null,
-   "spot": "QNTUSD.A"
   },
   {
    "symbol": "PENGUUSDT.6",
@@ -1598,49 +1588,19 @@
    "denom": "BASE_ASSET",
    "ticker": "PENGUUSDT",
    "has_ls": true,
-   "oi_usd": 8887670.76962,
+   "oi_usd": 9182640.78636,
    "mexc": null,
    "spot": "PENGUUSD.A"
   },
   {
-   "symbol": "FARTCOINUSDT.6",
-   "base": "FARTCOIN",
+   "symbol": "CRVUSDT.6",
+   "base": "CRV",
    "denom": "BASE_ASSET",
-   "ticker": "FARTCOINUSDT",
+   "ticker": "CRVUSDT",
    "has_ls": true,
-   "oi_usd": 8678858.479,
+   "oi_usd": 9039479.40763,
    "mexc": null,
-   "spot": "FARTCOINUSD.C"
-  },
-  {
-   "symbol": "FILUSDT.6",
-   "base": "FIL",
-   "denom": "BASE_ASSET",
-   "ticker": "FILUSDT",
-   "has_ls": true,
-   "oi_usd": 8658296.23428,
-   "mexc": null,
-   "spot": "FILUSD.A"
-  },
-  {
-   "symbol": "ARIAUSDT.6",
-   "base": "ARIA",
-   "denom": "BASE_ASSET",
-   "ticker": "ARIAUSDT",
-   "has_ls": true,
-   "oi_usd": 8575501.5265,
-   "mexc": null,
-   "spot": null
-  },
-  {
-   "symbol": "LDOUSDT.6",
-   "base": "LDO",
-   "denom": "BASE_ASSET",
-   "ticker": "LDOUSDT",
-   "has_ls": true,
-   "oi_usd": 8235265.774159999,
-   "mexc": null,
-   "spot": "LDOUSD.A"
+   "spot": "CRVUSD.A"
   },
   {
    "symbol": "CAPUSDT.6",
@@ -1648,59 +1608,59 @@
    "denom": "BASE_ASSET",
    "ticker": "CAPUSDT",
    "has_ls": true,
-   "oi_usd": 7885878.7896,
+   "oi_usd": 9016561.32,
    "mexc": null,
    "spot": "sCAPUSDT.6"
   },
   {
-   "symbol": "SPXUSDT.6",
-   "base": "SPX",
+   "symbol": "FILUSDT.6",
+   "base": "FIL",
    "denom": "BASE_ASSET",
-   "ticker": "SPXUSDT",
+   "ticker": "FILUSDT",
    "has_ls": true,
-   "oi_usd": 7204747.3056,
+   "oi_usd": 8841011.07704,
    "mexc": null,
-   "spot": "sSPXUSDT.6"
+   "spot": "FILUSD.A"
   },
   {
-   "symbol": "PENDLEUSDT.6",
-   "base": "PENDLE",
+   "symbol": "LDOUSDT.6",
+   "base": "LDO",
    "denom": "BASE_ASSET",
-   "ticker": "PENDLEUSDT",
+   "ticker": "LDOUSDT",
    "has_ls": true,
-   "oi_usd": 7123220.0292,
+   "oi_usd": 8227964.81528,
    "mexc": null,
-   "spot": "PENDLEUSD.A"
+   "spot": "LDOUSD.A"
   },
   {
-   "symbol": "EVAAUSDT.6",
-   "base": "EVAA",
+   "symbol": "FARTCOINUSDT.6",
+   "base": "FARTCOIN",
    "denom": "BASE_ASSET",
-   "ticker": "EVAAUSDT",
+   "ticker": "FARTCOINUSDT",
    "has_ls": true,
-   "oi_usd": 6962866.68324,
+   "oi_usd": 8152382.12932,
    "mexc": null,
-   "spot": "EVAAUSD.K"
+   "spot": "FARTCOINUSD.C"
   },
   {
-   "symbol": "BLESSUSDT.6",
-   "base": "BLESS",
+   "symbol": "COSTUSDT.6",
+   "base": "COST",
    "denom": "BASE_ASSET",
-   "ticker": "BLESSUSDT",
+   "ticker": "COSTUSDT",
    "has_ls": true,
-   "oi_usd": 6775438.7054200005,
+   "oi_usd": 7950209.3,
    "mexc": null,
-   "spot": "BLESSUSD.K"
+   "spot": null
   },
   {
-   "symbol": "MONUSDT.6",
-   "base": "MON",
+   "symbol": "SOXSUSDT.6",
+   "base": "SOXS",
    "denom": "BASE_ASSET",
-   "ticker": "MONUSDT",
+   "ticker": "SOXSUSDT",
    "has_ls": true,
-   "oi_usd": 6676650.3976799995,
+   "oi_usd": 7764116.445,
    "mexc": null,
-   "spot": "sMONUSDT.6"
+   "spot": "SOXSUSD.P"
   },
   {
    "symbol": "SNXXUSDT.6",
@@ -1708,19 +1668,79 @@
    "denom": "BASE_ASSET",
    "ticker": "SNXXUSDT",
    "has_ls": true,
-   "oi_usd": 6546758.2464,
+   "oi_usd": 7327048.304640001,
    "mexc": null,
    "spot": "SNXXUSD.P"
   },
   {
-   "symbol": "PONSUSDT.6",
-   "base": "PONS",
+   "symbol": "EVAAUSDT.6",
+   "base": "EVAA",
    "denom": "BASE_ASSET",
-   "ticker": "PONSUSDT",
+   "ticker": "EVAAUSDT",
    "has_ls": true,
-   "oi_usd": 6356322.2844,
+   "oi_usd": 7281228.349119999,
    "mexc": null,
-   "spot": "sPONSUSDT.6"
+   "spot": "EVAAUSD.K"
+  },
+  {
+   "symbol": "PENDLEUSDT.6",
+   "base": "PENDLE",
+   "denom": "BASE_ASSET",
+   "ticker": "PENDLEUSDT",
+   "has_ls": true,
+   "oi_usd": 7219214.8572,
+   "mexc": null,
+   "spot": "PENDLEUSD.A"
+  },
+  {
+   "symbol": "MONUSDT.6",
+   "base": "MON",
+   "denom": "BASE_ASSET",
+   "ticker": "MONUSDT",
+   "has_ls": true,
+   "oi_usd": 7044911.19036,
+   "mexc": null,
+   "spot": "sMONUSDT.6"
+  },
+  {
+   "symbol": "SPXUSDT.6",
+   "base": "SPX",
+   "denom": "BASE_ASSET",
+   "ticker": "SPXUSDT",
+   "has_ls": true,
+   "oi_usd": 6955914.1680000005,
+   "mexc": null,
+   "spot": "sSPXUSDT.6"
+  },
+  {
+   "symbol": "JUPUSDT.6",
+   "base": "JUP",
+   "denom": "BASE_ASSET",
+   "ticker": "JUPUSDT",
+   "has_ls": true,
+   "oi_usd": 6478841.024800001,
+   "mexc": null,
+   "spot": "JUPUSD.A"
+  },
+  {
+   "symbol": "ALGOUSDT.6",
+   "base": "ALGO",
+   "denom": "BASE_ASSET",
+   "ticker": "ALGOUSDT",
+   "has_ls": true,
+   "oi_usd": 6432448.202482001,
+   "mexc": null,
+   "spot": "ALGOUSD.A"
+  },
+  {
+   "symbol": "BLESSUSDT.6",
+   "base": "BLESS",
+   "denom": "BASE_ASSET",
+   "ticker": "BLESSUSDT",
+   "has_ls": true,
+   "oi_usd": 6315588.7122,
+   "mexc": null,
+   "spot": "BLESSUSD.K"
   },
   {
    "symbol": "WIFUSDT.6",
@@ -1728,9 +1748,19 @@
    "denom": "BASE_ASSET",
    "ticker": "WIFUSDT",
    "has_ls": true,
-   "oi_usd": 6214215.5236,
+   "oi_usd": 6214445.332199999,
    "mexc": null,
    "spot": "WIFUSD.A"
+  },
+  {
+   "symbol": "METAUSDT.6",
+   "base": "META",
+   "denom": "BASE_ASSET",
+   "ticker": "METAUSDT",
+   "has_ls": true,
+   "oi_usd": 6056888.0708,
+   "mexc": null,
+   "spot": null
   },
   {
    "symbol": "USELESSUSDT.6",
@@ -1738,7 +1768,7 @@
    "denom": "BASE_ASSET",
    "ticker": "USELESSUSDT",
    "has_ls": true,
-   "oi_usd": 6209386.92,
+   "oi_usd": 6000646.159200001,
    "mexc": null,
    "spot": "USELESSUSD.C"
   },
@@ -1748,7 +1778,7 @@
    "denom": "BASE_ASSET",
    "ticker": "OPUSDT",
    "has_ls": true,
-   "oi_usd": 6127589.98455,
+   "oi_usd": 5928993.5993099995,
    "mexc": null,
    "spot": "OPUSD.A"
   },
@@ -1758,29 +1788,19 @@
    "denom": "BASE_ASSET",
    "ticker": "ARXUSDT",
    "has_ls": true,
-   "oi_usd": 5831453.2343999995,
+   "oi_usd": 5853670.152,
    "mexc": null,
    "spot": "sARXUSDT.6"
   },
   {
-   "symbol": "JUPUSDT.6",
-   "base": "JUP",
+   "symbol": "PONSUSDT.6",
+   "base": "PONS",
    "denom": "BASE_ASSET",
-   "ticker": "JUPUSDT",
+   "ticker": "PONSUSDT",
    "has_ls": true,
-   "oi_usd": 5826737.3733,
+   "oi_usd": 5800320.47,
    "mexc": null,
-   "spot": "JUPUSD.A"
-  },
-  {
-   "symbol": "RENDERUSDT.6",
-   "base": "RENDER",
-   "denom": "BASE_ASSET",
-   "ticker": "RENDERUSDT",
-   "has_ls": true,
-   "oi_usd": 5505301.7064,
-   "mexc": null,
-   "spot": "RENDERUSD.A"
+   "spot": "sPONSUSDT.6"
   },
   {
    "symbol": "ETCUSDT.6",
@@ -1788,99 +1808,19 @@
    "denom": "BASE_ASSET",
    "ticker": "ETCUSDT",
    "has_ls": true,
-   "oi_usd": 5367033.519200001,
+   "oi_usd": 5446323.584,
    "mexc": null,
    "spot": "ETCUSD.A"
   },
   {
-   "symbol": "ALGOUSDT.6",
-   "base": "ALGO",
+   "symbol": "ELSAUSDT.6",
+   "base": "ELSA",
    "denom": "BASE_ASSET",
-   "ticker": "ALGOUSDT",
+   "ticker": "ELSAUSDT",
    "has_ls": true,
-   "oi_usd": 5321298.189384,
+   "oi_usd": 5426843.9127,
    "mexc": null,
-   "spot": "ALGOUSD.A"
-  },
-  {
-   "symbol": "TIAUSDT.6",
-   "base": "TIA",
-   "denom": "BASE_ASSET",
-   "ticker": "TIAUSDT",
-   "has_ls": true,
-   "oi_usd": 5282874.27536,
-   "mexc": null,
-   "spot": "TIAUSD.A"
-  },
-  {
-   "symbol": "METAUSDT.6",
-   "base": "META",
-   "denom": "BASE_ASSET",
-   "ticker": "METAUSDT",
-   "has_ls": true,
-   "oi_usd": 5261142.383200001,
-   "mexc": null,
-   "spot": null
-  },
-  {
-   "symbol": "TQQQUSDT.6",
-   "base": "TQQQ",
-   "denom": "BASE_ASSET",
-   "ticker": "TQQQUSDT",
-   "has_ls": true,
-   "oi_usd": 5205731.6288,
-   "mexc": null,
-   "spot": "TQQQUSD.P"
-  },
-  {
-   "symbol": "ICNTUSDT.6",
-   "base": "ICNT",
-   "denom": "BASE_ASSET",
-   "ticker": "ICNTUSDT",
-   "has_ls": true,
-   "oi_usd": 5126809.304400001,
-   "mexc": null,
-   "spot": "sICNTUSDT.6"
-  },
-  {
-   "symbol": "STXUSDT.6",
-   "base": "STX",
-   "denom": "BASE_ASSET",
-   "ticker": "STXUSDT",
-   "has_ls": true,
-   "oi_usd": 5027350.613879999,
-   "mexc": null,
-   "spot": "STXUSD.A"
-  },
-  {
-   "symbol": "AKEUSDT.6",
-   "base": "AKE",
-   "denom": "BASE_ASSET",
-   "ticker": "AKEUSDT",
-   "has_ls": true,
-   "oi_usd": 4889877.419,
-   "mexc": null,
-   "spot": "AKEUSD.K"
-  },
-  {
-   "symbol": "JCTUSDT.6",
-   "base": "JCT",
-   "denom": "BASE_ASSET",
-   "ticker": "JCTUSDT",
-   "has_ls": true,
-   "oi_usd": 4728698.24,
-   "mexc": null,
-   "spot": null
-  },
-  {
-   "symbol": "MMTUSDT.6",
-   "base": "MMT",
-   "denom": "BASE_ASSET",
-   "ticker": "MMTUSDT",
-   "has_ls": true,
-   "oi_usd": 4654996.2996000005,
-   "mexc": null,
-   "spot": "MMTUSD.A"
+   "spot": "sELSAUSDT.6"
   },
   {
    "symbol": "KASUSDT.6",
@@ -1888,119 +1828,59 @@
    "denom": "BASE_ASSET",
    "ticker": "KASUSDT",
    "has_ls": true,
-   "oi_usd": 4550079.5946,
+   "oi_usd": 5329096.3488,
    "mexc": null,
    "spot": "sKASUSDT.6"
   },
   {
-   "symbol": "MORPHOUSDT.6",
-   "base": "MORPHO",
+   "symbol": "TIAUSDT.6",
+   "base": "TIA",
    "denom": "BASE_ASSET",
-   "ticker": "MORPHOUSDT",
+   "ticker": "TIAUSDT",
    "has_ls": true,
-   "oi_usd": 4542185.3624,
+   "oi_usd": 5155151.81412,
    "mexc": null,
-   "spot": "MORPHOUSD.A"
+   "spot": "TIAUSD.A"
   },
   {
-   "symbol": "SEIUSDT.6",
-   "base": "SEI",
+   "symbol": "RENDERUSDT.6",
+   "base": "RENDER",
    "denom": "BASE_ASSET",
-   "ticker": "SEIUSDT",
+   "ticker": "RENDERUSDT",
    "has_ls": true,
-   "oi_usd": 4513418.0128,
+   "oi_usd": 5017049.3100000005,
    "mexc": null,
-   "spot": "SEIUSD.A"
+   "spot": "RENDERUSD.A"
   },
   {
-   "symbol": "VIRTUALUSDT.6",
-   "base": "VIRTUAL",
+   "symbol": "AKEUSDT.6",
+   "base": "AKE",
    "denom": "BASE_ASSET",
-   "ticker": "VIRTUALUSDT",
+   "ticker": "AKEUSDT",
    "has_ls": true,
-   "oi_usd": 4504112.676,
+   "oi_usd": 5015382.259500001,
    "mexc": null,
-   "spot": "VIRTUALUSD.A"
+   "spot": "AKEUSD.K"
   },
   {
-   "symbol": "PYTHUSDT.6",
-   "base": "PYTH",
+   "symbol": "STXUSDT.6",
+   "base": "STX",
    "denom": "BASE_ASSET",
-   "ticker": "PYTHUSDT",
+   "ticker": "STXUSDT",
    "has_ls": true,
-   "oi_usd": 4425866.85816,
+   "oi_usd": 4999883.4518,
    "mexc": null,
-   "spot": "PYTHUSD.A"
+   "spot": "STXUSD.A"
   },
   {
-   "symbol": "SOONUSDT.6",
-   "base": "SOON",
+   "symbol": "MMTUSDT.6",
+   "base": "MMT",
    "denom": "BASE_ASSET",
-   "ticker": "SOONUSDT",
+   "ticker": "MMTUSDT",
    "has_ls": true,
-   "oi_usd": 4350614.7587,
+   "oi_usd": 4807466.3717,
    "mexc": null,
-   "spot": "SOONUSD.K"
-  },
-  {
-   "symbol": "SHIB1000USDT.6",
-   "base": "1000SHIB",
-   "denom": "BASE_ASSET",
-   "ticker": "SHIB1000USDT",
-   "has_ls": true,
-   "oi_usd": 4227628.31094,
-   "mexc": null,
-   "spot": null
-  },
-  {
-   "symbol": "BARDUSDT.6",
-   "base": "BARD",
-   "denom": "BASE_ASSET",
-   "ticker": "BARDUSDT",
-   "has_ls": true,
-   "oi_usd": 4215919.947522,
-   "mexc": null,
-   "spot": "BARDUSD.A"
-  },
-  {
-   "symbol": "COMPUSDT.6",
-   "base": "COMP",
-   "denom": "BASE_ASSET",
-   "ticker": "COMPUSDT",
-   "has_ls": true,
-   "oi_usd": 4185263.3619999997,
-   "mexc": null,
-   "spot": "COMPUSD.A"
-  },
-  {
-   "symbol": "1000BONKUSDT.6",
-   "base": "1000BONK",
-   "denom": "BASE_ASSET",
-   "ticker": "1000BONKUSDT",
-   "has_ls": true,
-   "oi_usd": 4171461.0678,
-   "mexc": null,
-   "spot": "s1000BONKUSDT.7"
-  },
-  {
-   "symbol": "BEAMUSDT.6",
-   "base": "BEAM",
-   "denom": "BASE_ASSET",
-   "ticker": "BEAMUSDT",
-   "has_ls": true,
-   "oi_usd": 4001718.5951,
-   "mexc": null,
-   "spot": "BEAMUSD.A"
-  },
-  {
-   "symbol": "DASHUSDT.6",
-   "base": "DASH",
-   "denom": "BASE_ASSET",
-   "ticker": "DASHUSDT",
-   "has_ls": true,
-   "oi_usd": 3950135.028,
-   "mexc": null,
-   "spot": "DASHUSD.A"
+   "spot": "MMTUSD.A"
   },
   {
    "symbol": "INITUSDT.6",
@@ -2008,17 +1888,27 @@
    "denom": "BASE_ASSET",
    "ticker": "INITUSDT",
    "has_ls": true,
-   "oi_usd": 3909547.39864,
+   "oi_usd": 4757498.05524,
    "mexc": null,
    "spot": "INITUSD.A"
   },
   {
-   "symbol": "COINUSDT.6",
-   "base": "COIN",
+   "symbol": "TQQQUSDT.6",
+   "base": "TQQQ",
    "denom": "BASE_ASSET",
-   "ticker": "COINUSDT",
+   "ticker": "TQQQUSDT",
    "has_ls": true,
-   "oi_usd": 3812743.8179999995,
+   "oi_usd": 4628180.895,
+   "mexc": null,
+   "spot": "TQQQUSD.P"
+  },
+  {
+   "symbol": "JCTUSDT.6",
+   "base": "JCT",
+   "denom": "BASE_ASSET",
+   "ticker": "JCTUSDT",
+   "has_ls": true,
+   "oi_usd": 4612276.9372,
    "mexc": null,
    "spot": null
   },
@@ -2028,99 +1918,139 @@
    "denom": "BASE_ASSET",
    "ticker": "BTWUSDT",
    "has_ls": true,
-   "oi_usd": 3761077.1879999996,
+   "oi_usd": 4604173.92,
    "mexc": null,
    "spot": "BTWUSD.P"
   },
   {
-   "symbol": "TRBUSDT.6",
-   "base": "TRB",
+   "symbol": "1000BONKUSDT.6",
+   "base": "1000BONK",
    "denom": "BASE_ASSET",
-   "ticker": "TRBUSDT",
+   "ticker": "1000BONKUSDT",
    "has_ls": true,
-   "oi_usd": 3639105.015,
+   "oi_usd": 4573637.3548,
    "mexc": null,
-   "spot": "TRBUSD.A"
+   "spot": "s1000BONKUSDT.7"
   },
   {
-   "symbol": "CASHCATUSDT.6",
-   "base": "CASHCAT",
+   "symbol": "SEIUSDT.6",
+   "base": "SEI",
    "denom": "BASE_ASSET",
-   "ticker": "CASHCATUSDT",
+   "ticker": "SEIUSDT",
    "has_ls": true,
-   "oi_usd": 3608672.6291,
+   "oi_usd": 4516729.71832,
    "mexc": null,
-   "spot": "CASHCATUSD.P"
+   "spot": "SEIUSD.A"
   },
   {
-   "symbol": "ZEREBROUSDT.6",
-   "base": "ZEREBRO",
+   "symbol": "ICNTUSDT.6",
+   "base": "ICNT",
    "denom": "BASE_ASSET",
-   "ticker": "ZEREBROUSDT",
+   "ticker": "ICNTUSDT",
    "has_ls": true,
-   "oi_usd": 3471519.28529,
+   "oi_usd": 4460794.799400001,
    "mexc": null,
-   "spot": "sZEREBROUSDT.6"
+   "spot": "sICNTUSDT.6"
   },
   {
-   "symbol": "IRYSUSDT.6",
-   "base": "IRYS",
+   "symbol": "MORPHOUSDT.6",
+   "base": "MORPHO",
    "denom": "BASE_ASSET",
-   "ticker": "IRYSUSDT",
+   "ticker": "MORPHOUSDT",
    "has_ls": true,
-   "oi_usd": 3459292.98668,
+   "oi_usd": 4401223.164,
    "mexc": null,
-   "spot": "IRYSUSD.C"
+   "spot": "MORPHOUSD.A"
   },
   {
-   "symbol": "EIGENUSDT.6",
-   "base": "EIGEN",
+   "symbol": "VIRTUALUSDT.6",
+   "base": "VIRTUAL",
    "denom": "BASE_ASSET",
-   "ticker": "EIGENUSDT",
+   "ticker": "VIRTUALUSDT",
    "has_ls": true,
-   "oi_usd": 3410473.6176,
+   "oi_usd": 4362374.35,
    "mexc": null,
-   "spot": "EIGENUSD.A"
+   "spot": "VIRTUALUSD.A"
   },
   {
-   "symbol": "MEGAUSDT.6",
-   "base": "MEGA",
+   "symbol": "SOONUSDT.6",
+   "base": "SOON",
    "denom": "BASE_ASSET",
-   "ticker": "MEGAUSDT",
+   "ticker": "SOONUSDT",
    "has_ls": true,
-   "oi_usd": 3359585.4357000003,
+   "oi_usd": 4196025.792,
    "mexc": null,
-   "spot": "MEGAUSD.A"
+   "spot": "SOONUSD.K"
   },
   {
-   "symbol": "HOODUSDT.6",
-   "base": "HOOD",
+   "symbol": "COMPUSDT.6",
+   "base": "COMP",
    "denom": "BASE_ASSET",
-   "ticker": "HOODUSDT",
+   "ticker": "COMPUSDT",
    "has_ls": true,
-   "oi_usd": 3330065.5846,
+   "oi_usd": 4188791.5200000005,
+   "mexc": null,
+   "spot": "COMPUSD.A"
+  },
+  {
+   "symbol": "SHIB1000USDT.6",
+   "base": "1000SHIB",
+   "denom": "BASE_ASSET",
+   "ticker": "SHIB1000USDT",
+   "has_ls": true,
+   "oi_usd": 4056177.37252,
    "mexc": null,
    "spot": null
   },
   {
-   "symbol": "PLUMEUSDT.6",
-   "base": "PLUME",
+   "symbol": "PYTHUSDT.6",
+   "base": "PYTH",
    "denom": "BASE_ASSET",
-   "ticker": "PLUMEUSDT",
+   "ticker": "PYTHUSDT",
    "has_ls": true,
-   "oi_usd": 3266297.98192,
+   "oi_usd": 4055778.91305,
    "mexc": null,
-   "spot": "PLUMEUSD.A"
+   "spot": "PYTHUSD.A"
   },
   {
-   "symbol": "PIPPINUSDT.6",
-   "base": "PIPPIN",
+   "symbol": "BARDUSDT.6",
+   "base": "BARD",
    "denom": "BASE_ASSET",
-   "ticker": "PIPPINUSDT",
+   "ticker": "BARDUSDT",
    "has_ls": true,
-   "oi_usd": 3244850.97478,
+   "oi_usd": 3914596.1441320004,
    "mexc": null,
-   "spot": "PIPPINUSD.P"
+   "spot": "BARDUSD.A"
+  },
+  {
+   "symbol": "DASHUSDT.6",
+   "base": "DASH",
+   "denom": "BASE_ASSET",
+   "ticker": "DASHUSDT",
+   "has_ls": true,
+   "oi_usd": 3904078.7676,
+   "mexc": null,
+   "spot": "DASHUSD.A"
+  },
+  {
+   "symbol": "COINUSDT.6",
+   "base": "COIN",
+   "denom": "BASE_ASSET",
+   "ticker": "COINUSDT",
+   "has_ls": true,
+   "oi_usd": 3888179.8272,
+   "mexc": null,
+   "spot": null
+  },
+  {
+   "symbol": "BEAMUSDT.6",
+   "base": "BEAM",
+   "denom": "BASE_ASSET",
+   "ticker": "BEAMUSDT",
+   "has_ls": true,
+   "oi_usd": 3850498.18032,
+   "mexc": null,
+   "spot": "BEAMUSD.A"
   },
   {
    "symbol": "TAUSDT.6",
@@ -2128,9 +2058,79 @@
    "denom": "BASE_ASSET",
    "ticker": "TAUSDT",
    "has_ls": true,
-   "oi_usd": 3180481.854,
+   "oi_usd": 3801664.812,
    "mexc": null,
    "spot": "sTAUSDT.6"
+  },
+  {
+   "symbol": "HUSDT.6",
+   "base": "H",
+   "denom": "BASE_ASSET",
+   "ticker": "HUSDT",
+   "has_ls": true,
+   "oi_usd": 3738281.6733999997,
+   "mexc": null,
+   "spot": "sHUSDT.6"
+  },
+  {
+   "symbol": "TRBUSDT.6",
+   "base": "TRB",
+   "denom": "BASE_ASSET",
+   "ticker": "TRBUSDT",
+   "has_ls": true,
+   "oi_usd": 3643313.98224,
+   "mexc": null,
+   "spot": "TRBUSD.A"
+  },
+  {
+   "symbol": "ZEREBROUSDT.6",
+   "base": "ZEREBRO",
+   "denom": "BASE_ASSET",
+   "ticker": "ZEREBROUSDT",
+   "has_ls": true,
+   "oi_usd": 3584098.7352,
+   "mexc": null,
+   "spot": "sZEREBROUSDT.6"
+  },
+  {
+   "symbol": "PIPPINUSDT.6",
+   "base": "PIPPIN",
+   "denom": "BASE_ASSET",
+   "ticker": "PIPPINUSDT",
+   "has_ls": true,
+   "oi_usd": 3500994.5872000004,
+   "mexc": null,
+   "spot": "PIPPINUSD.P"
+  },
+  {
+   "symbol": "1000LUNCUSDT.6",
+   "base": "1000LUNC",
+   "denom": "BASE_ASSET",
+   "ticker": "1000LUNCUSDT",
+   "has_ls": true,
+   "oi_usd": 3476789.09064,
+   "mexc": null,
+   "spot": null
+  },
+  {
+   "symbol": "NIGHTUSDT.6",
+   "base": "NIGHT",
+   "denom": "BASE_ASSET",
+   "ticker": "NIGHTUSDT",
+   "has_ls": true,
+   "oi_usd": 3450633.3159000003,
+   "mexc": null,
+   "spot": "NIGHTUSD.A"
+  },
+  {
+   "symbol": "ACEUSDT.6",
+   "base": "ACE",
+   "denom": "BASE_ASSET",
+   "ticker": "ACEUSDT",
+   "has_ls": true,
+   "oi_usd": 3446422.8498750003,
+   "mexc": null,
+   "spot": "ACEUSD.A"
   },
   {
    "symbol": "EDGEUSDT.6",
@@ -2138,9 +2138,49 @@
    "denom": "BASE_ASSET",
    "ticker": "EDGEUSDT",
    "has_ls": true,
-   "oi_usd": 3167544.122,
+   "oi_usd": 3426418.5031999997,
    "mexc": null,
    "spot": "sEDGEXUSDT.6"
+  },
+  {
+   "symbol": "HOODUSDT.6",
+   "base": "HOOD",
+   "denom": "BASE_ASSET",
+   "ticker": "HOODUSDT",
+   "has_ls": true,
+   "oi_usd": 3388605.3641999997,
+   "mexc": null,
+   "spot": null
+  },
+  {
+   "symbol": "MEGAUSDT.6",
+   "base": "MEGA",
+   "denom": "BASE_ASSET",
+   "ticker": "MEGAUSDT",
+   "has_ls": true,
+   "oi_usd": 3266342.1651000003,
+   "mexc": null,
+   "spot": "MEGAUSD.A"
+  },
+  {
+   "symbol": "EIGENUSDT.6",
+   "base": "EIGEN",
+   "denom": "BASE_ASSET",
+   "ticker": "EIGENUSDT",
+   "has_ls": true,
+   "oi_usd": 3205543.6095999996,
+   "mexc": null,
+   "spot": "EIGENUSD.A"
+  },
+  {
+   "symbol": "PLUMEUSDT.6",
+   "base": "PLUME",
+   "denom": "BASE_ASSET",
+   "ticker": "PLUMEUSDT",
+   "has_ls": true,
+   "oi_usd": 3193742.81344,
+   "mexc": null,
+   "spot": "PLUMEUSD.A"
   },
   {
    "symbol": "SKYUSDT.6",
@@ -2148,19 +2188,9 @@
    "denom": "BASE_ASSET",
    "ticker": "SKYUSDT",
    "has_ls": true,
-   "oi_usd": 3162479.2476,
+   "oi_usd": 3154128.6319999998,
    "mexc": null,
    "spot": "SKYUSD.A"
-  },
-  {
-   "symbol": "SUSDT.6",
-   "base": "S",
-   "denom": "BASE_ASSET",
-   "ticker": "SUSDT",
-   "has_ls": true,
-   "oi_usd": 3132042.3784000003,
-   "mexc": null,
-   "spot": "SUSD.A"
   },
   {
    "symbol": "RAYDIUMUSDT.6",
@@ -2168,9 +2198,59 @@
    "denom": "BASE_ASSET",
    "ticker": "RAYDIUMUSDT",
    "has_ls": true,
-   "oi_usd": 3073773.9480000003,
+   "oi_usd": 3131788.0057200002,
    "mexc": null,
    "spot": "RAYUSD.A"
+  },
+  {
+   "symbol": "CHIPUSDT.6",
+   "base": "CHIP",
+   "denom": "BASE_ASSET",
+   "ticker": "CHIPUSDT",
+   "has_ls": true,
+   "oi_usd": 3129896.5445999997,
+   "mexc": null,
+   "spot": "CHIPUSD.A"
+  },
+  {
+   "symbol": "GALAUSDT.6",
+   "base": "GALA",
+   "denom": "BASE_ASSET",
+   "ticker": "GALAUSDT",
+   "has_ls": true,
+   "oi_usd": 3102567.2258220003,
+   "mexc": null,
+   "spot": "GALAUSD.A"
+  },
+  {
+   "symbol": "UNITREEUSDT.6",
+   "base": "UNITREE",
+   "denom": "BASE_ASSET",
+   "ticker": "UNITREEUSDT",
+   "has_ls": true,
+   "oi_usd": 3031487.1972,
+   "mexc": null,
+   "spot": null
+  },
+  {
+   "symbol": "SUSDT.6",
+   "base": "S",
+   "denom": "BASE_ASSET",
+   "ticker": "SUSDT",
+   "has_ls": true,
+   "oi_usd": 3019944.789,
+   "mexc": null,
+   "spot": "SUSD.A"
+  },
+  {
+   "symbol": "CASHCATUSDT.6",
+   "base": "CASHCAT",
+   "denom": "BASE_ASSET",
+   "ticker": "CASHCATUSDT",
+   "has_ls": true,
+   "oi_usd": 3012164.3112,
+   "mexc": null,
+   "spot": "CASHCATUSD.P"
   }
  ]
 }
