@@ -296,6 +296,19 @@
      "close": 0.01034158570980881
     }
    }
+  },
+  {
+   "symbol": "WLFIUSDT.6",
+   "ticker": "WLFIUSDT",
+   "tier": "IMMINENT",
+   "score": 65.1,
+   "lean": "Crowded SHORTS - upside squeeze risk",
+   "added": "2026-11-24T03:57:00+00:00",
+   "t0": "2026-11-24T03:00:00+00:00",
+   "p0": 0.04094,
+   "typ4": 0.01567059637824538,
+   "p90_12": 0.04477301124531441,
+   "done": {}
   }
  ],
  "finished": [
