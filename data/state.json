@@ -91,24 +91,24 @@
   "MMTUSDT.6": "2026-11-24T09:00:00+00:00"
  },
  "last_top": [
-  "MMTUSDT.6",
-  "MONUSDT.6",
-  "ICPUSDT.6",
   "STXUSDT.6",
-  "TAUSDT.6",
+  "GRAMUSDT.6",
   "1000PEPEUSDT.6",
-  "ALGOUSDT.6"
+  "DOTUSDT.6",
+  "INJUSDT.6",
+  "ICPUSDT.6",
+  "PUMPFUNUSDT.6"
  ],
  "last_tiers": {
-  "MMTUSDT.6": "IMMINENT",
-  "MONUSDT.6": "WATCH",
-  "ICPUSDT.6": "WATCH",
-  "STXUSDT.6": "WATCH",
-  "TAUSDT.6": "WATCH",
+  "STXUSDT.6": "BUILDING",
+  "GRAMUSDT.6": "WATCH",
   "1000PEPEUSDT.6": "WATCH",
-  "ALGOUSDT.6": "WATCH"
+  "DOTUSDT.6": "WATCH",
+  "INJUSDT.6": "WATCH",
+  "ICPUSDT.6": "WATCH",
+  "PUMPFUNUSDT.6": "WATCH"
  },
- "last_scan": "2026-11-24T09:00:00+00:00",
+ "last_scan": "2026-11-24T10:09:00+00:00",
  "last_digest_key": "2026-11-23T20",
  "last_failure_alert": "2026-11-15T08:02:29.990627+00:00"
 }
