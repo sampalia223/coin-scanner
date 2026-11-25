@@ -109,6 +109,19 @@
      "close": 0.016009371339320566
     }
    }
+  },
+  {
+   "symbol": "COINUSDT.6",
+   "ticker": "COINUSDT",
+   "tier": "IMMINENT",
+   "score": 55.0,
+   "lean": "Flow sell-led (unconfirmed)",
+   "added": "2026-11-25T02:54:00+00:00",
+   "t0": "2026-11-25T02:00:00+00:00",
+   "p0": 101.81,
+   "typ4": 0.020784339696557057,
+   "p90_12": 0.06334298118983188,
+   "done": {}
   }
  ],
  "finished": [
