@@ -1,5 +1,19 @@
 {
- "open": [],
+ "open": [
+  {
+   "symbol": "XPLUSDT.6",
+   "ticker": "XPLUSDT",
+   "tier": "BUILDING",
+   "score": 40.5,
+   "lean": "Crowded SHORTS - upside squeeze risk",
+   "added": "2026-11-26T20:04:00+00:00",
+   "t0": "2026-11-26T20:00:00+00:00",
+   "p0": 0.04814,
+   "typ4": 0.028615084553496865,
+   "p90_12": 0.09144877138254619,
+   "done": {}
+  }
+ ],
  "finished": [
   {
    "symbol": "XLMUSDT.6",
